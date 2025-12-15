@@ -1,5 +1,3 @@
-# mbacollege.py
-from fastapi import FastAPI, HTTPException
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
@@ -7,15 +5,8 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
-import asyncio
-import re
+import re, json, time
 
-app = FastAPI(title="MBA Colleges API")
-
-# Cached data
-cached_mba_data = []
-
-# MBA sections URLs
 mba_sections = {
     "Top MBA Colleges in India": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-india/2-2-0-0-0",
     "Private MBA Colleges in India": "https://www.shiksha.com/mba/ranking/top-private-mba-colleges-in-india/125-2-0-0-0",
@@ -23,7 +14,12 @@ mba_sections = {
     "Top MBA Colleges in Chennai": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-mumbai/2-2-0-151-0"
 }
 
-# ------------------------------- DRIVER CREATOR ------------------------------
+from selenium.webdriver.chrome.service import Service
+from selenium.webdriver.chrome.options import Options
+from selenium import webdriver
+from webdriver_manager.chrome import ChromeDriverManager
+import platform
+
 def create_driver():
     options = Options()
     options.add_argument("--headless=new")
@@ -32,14 +28,17 @@ def create_driver():
     options.add_argument("--disable-gpu")
     options.add_argument("user-agent=Mozilla/5.0")
 
-    # Render environment paths
-    options.binary_location = "/usr/bin/chromium"
-    service = Service("/usr/bin/chromedriver")
+    if platform.system() == "Windows":
+        # Windows pe webdriver-manager use karo
+        service = Service(ChromeDriverManager().install())
+    else:
+        # Linux / Render / VPS
+        options.binary_location = "/usr/bin/chromium"
+        service = Service("/usr/bin/chromedriver")
 
     return webdriver.Chrome(service=service, options=options)
 
-# ------------------------------- SCRAPER ------------------------------------
-def scrape_mba_colleges():
+def scrape():
     driver = create_driver()
     all_sections_data = []
 
@@ -48,8 +47,8 @@ def scrape_mba_colleges():
             colleges_in_section = []
 
             for page in range(1, 5):
-                page_url = category_url if page == 1 else f"{category_url}?pageNo={page}"
-                driver.get(page_url)
+                url = category_url if page == 1 else f"{category_url}?pageNo={page}"
+                driver.get(url)
 
                 WebDriverWait(driver, 15).until(
                     EC.presence_of_all_elements_located(
@@ -59,33 +58,32 @@ def scrape_mba_colleges():
 
                 soup = BeautifulSoup(driver.page_source, "html.parser")
 
-                for college_card in soup.select("div.clear_float.desk-col.source-selected"):
+                for card in soup.select("div.clear_float.desk-col.source-selected"):
+                    name = card.select_one("h4.f14_bold.link")
+                    college_name = name.get_text(strip=True) if name else ""
 
-                    name_tag = college_card.select_one("h4.f14_bold.link")
-                    college_name = name_tag.get_text(strip=True) if name_tag else ""
-
-                    nirf_tag = college_card.select_one("div.flt_left.rank_section span.circleText")
-                    nirf_rank = nirf_tag.get_text(strip=True) if nirf_tag else ""
+                    nirf = card.select_one("div.flt_left.rank_section span.circleText")
+                    nirf_rank = nirf.get_text(strip=True) if nirf else ""
 
                     fees, salary = "", ""
-                    for blk in college_card.select("div.flex_v.text--secondary"):
-                        txt = blk.get_text(" ", strip=True)
-                        if "Fees" in txt:
-                            fees = txt.replace("Fees", "").strip()
-                        elif "Salary" in txt:
-                            salary = txt.replace("Salary", "").strip()
+                    for blk in card.select("div.flex_v.text--secondary"):
+                        text = blk.get_text(" ", strip=True)
+                        if "Fees" in text:
+                            fees = text.replace("Fees", "").strip()
+                        elif "Salary" in text:
+                            salary = text.replace("Salary", "").strip()
 
-                    business_today, outlook_rank = "", ""
-                    for row in college_card.select("div.hrzntl_flex"):
+                    business_today, outlook = "", ""
+                    for row in card.select("div.hrzntl_flex"):
                         cols = row.find_all("div")
                         if len(cols) >= 2:
                             label = cols[1].get_text(strip=True).lower()
-                            match = re.search(r'\d+', cols[1].get_text())
+                            match = re.search(r"\d+", cols[1].get_text())
                             number = match.group() if match else ""
                             if "business" in label:
                                 business_today = number
                             elif "outlook" in label:
-                                outlook_rank = number
+                                outlook = number
 
                     colleges_in_section.append({
                         "name": college_name,
@@ -95,10 +93,12 @@ def scrape_mba_colleges():
                             "salary": salary,
                             "rankings": {
                                 "business_today": business_today,
-                                "outlook": outlook_rank
+                                "outlook": outlook
                             }
                         }
                     })
+
+                time.sleep(2)
 
             all_sections_data.append({
                 "category": category_name,
@@ -108,49 +108,10 @@ def scrape_mba_colleges():
     finally:
         driver.quit()
 
-    return all_sections_data
+    with open("mba_data.json", "w", encoding="utf-8") as f:
+        json.dump(all_sections_data, f, indent=2, ensure_ascii=False)
 
-# -------------------------- PERIODIC SCRAPER -----------------------------
-async def periodic_scrape(interval=3600):
-    global cached_mba_data
-    while True:
-        try:
-            cached_mba_data = await asyncio.to_thread(scrape_mba_colleges)
-        except Exception as e:
-            print(f"Error during scraping: {e}")
-        await asyncio.sleep(interval)
+    print("✅ Data scraped & saved successfully")
 
-# --------------------------- STARTUP EVENT ------------------------------
-
-@app.on_event("startup")
-async def startup_event():
-    asyncio.create_task(periodic_scrape(interval=3600))
-
-
-# --------------------------- UTIL ------------------------------
-def get_all_colleges_with_id():
-    colleges_list = []
-    idx = 1
-    for section in cached_mba_data:
-        for college in section["colleges"]:
-            temp = college.copy()
-            temp["id"] = idx
-            colleges_list.append(temp)
-            idx += 1
-    return colleges_list
-
-# ----------------------------- ROUTES ------------------------------
-@app.get("/")
-async def root():
-    return {"message": "API is running! Go to /mba_colleges to see all colleges."}
-
-@app.get("/mba_colleges")
-async def get_all_colleges():
-    return {"mba_colleges": get_all_colleges_with_id()}
-
-@app.get("/mba_colleges/{college_id}")
-async def get_college_by_id(college_id: int):
-    for college in get_all_colleges_with_id():
-        if college["id"] == college_id:
-            return college
-    raise HTTPException(status_code=404, detail="College not found")
+if __name__ == "__main__":
+    scrape()
