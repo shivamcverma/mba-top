@@ -6,41 +6,26 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import re, json, time
-
-mba_sections = {
-    "Top MBA Colleges in India": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-india/2-2-0-0-0",
-    "Private MBA Colleges in India": "https://www.shiksha.com/mba/ranking/top-private-mba-colleges-in-india/125-2-0-0-0",
-    "Top MBA Colleges in Bangalore": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-bangalore/2-2-0-278-0",
-    "Top MBA Colleges in Mumbai": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-mumbai/2-2-0-151-0",
-    "Top MBA Colleges in Pune":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-pune/2-2-0-174-0",
-    "Top MBA Colleges in Hydrabaad":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-hyderabad/2-2-0-702-0",
-    "Top MBA Colleges in Delhi":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-delhi/2-2-0-74-0",
-    "Top MBA Colleges in Chennai":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-chennai/2-2-0-64-0",
-    "Top MBA Colleges in Maharastra":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-maharashtra/2-2-114-0-0",
-    "Top MBA Colleges in Kolkata":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-kolkata/2-2-0-130-0",
-    "Top MBA Colleges in Kerla":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-kerala/2-2-107-0-0",
- 
-}
-
-from selenium.webdriver.chrome.service import Service
-from selenium.webdriver.chrome.options import Options
-from selenium import webdriver
 from webdriver_manager.chrome import ChromeDriverManager
 import platform
 
+mba_sections = {
+    "Top MBA Colleges in India": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-india/2-2-0-0-0",
+}
+
 def create_driver():
     options = Options()
-    options.add_argument("--headless=new")
+    # options.add_argument("--headless")  # comment out for visible browser
+    options.add_argument("--disable-gpu")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("--disable-gpu")
     options.add_argument("user-agent=Mozilla/5.0")
+    options.add_argument("--window-size=1920,1080")
+    options.add_argument("--disable-blink-features=AutomationControlled")
 
     if platform.system() == "Windows":
-        # Windows pe webdriver-manager use karo
         service = Service(ChromeDriverManager().install())
     else:
-        # Linux / Render / VPS
         options.binary_location = "/usr/bin/chromium"
         service = Service("/usr/bin/chromedriver")
 
@@ -57,43 +42,76 @@ def scrape():
             for page in range(1, 5):
                 url = category_url if page == 1 else f"{category_url}?pageNo={page}"
                 driver.get(url)
+                driver.execute_script("window.scrollTo(0, document.body.scrollHeight);")
+                time.sleep(5)
 
+                # Wait for cards to load
                 WebDriverWait(driver, 15).until(
                     EC.presence_of_all_elements_located(
                         (By.CSS_SELECTOR, "div.clear_float.desk-col.source-selected")
                     )
                 )
 
-                soup = BeautifulSoup(driver.page_source, "html.parser")
+                cards = driver.find_elements(By.CSS_SELECTOR, "div.clear_float.desk-col.source-selected")
 
-                for card in soup.select("div.clear_float.desk-col.source-selected"):
-                    name = card.select_one("h4.f14_bold.link")
-                    college_name = name.get_text(strip=True) if name else ""
+                for card_element in cards:
+                    try:
+                        driver.execute_script(
+                            "arguments[0].scrollIntoView({block:'center'});", card_element
+                        )
+                        time.sleep(0.4)
+                    
+                        img_element = card_element.find_element(By.CSS_SELECTOR, "div.tuple-inst-img img")
+                    
+                        college_img = (
+                            img_element.get_attribute("src")
+                            or img_element.get_attribute("data-src")
+                            or img_element.get_attribute("data-original")
+                            or ""
+                        )
+                    except:
+                        college_img = ""
 
-                    nirf = card.select_one("div.flt_left.rank_section span.circleText")
-                    nirf_rank = nirf.get_text(strip=True) if nirf else ""
+ 
+
+                    try:
+                        college_name = card_element.find_element(By.CSS_SELECTOR, "h4.f14_bold.link").text
+                    except:
+                        college_name = ""
+
+                    try:
+                        nirf_rank = card_element.find_element(By.CSS_SELECTOR, "div.flt_left.rank_section span.circleText").text
+                    except:
+                        nirf_rank = ""
 
                     fees, salary = "", ""
-                    for blk in card.select("div.flex_v.text--secondary"):
-                        text = blk.get_text(" ", strip=True)
-                        if "Fees" in text:
-                            fees = text.replace("Fees", "").strip()
-                        elif "Salary" in text:
-                            salary = text.replace("Salary", "").strip()
+                    try:
+                        for blk in card_element.find_elements(By.CSS_SELECTOR, "div.flex_v.text--secondary"):
+                            text = blk.text
+                            if "Fees" in text:
+                                fees = text.replace("Fees", "").strip()
+                            elif "Salary" in text:
+                                salary = text.replace("Salary", "").strip()
+                    except:
+                        pass
 
                     business_today, outlook = "", ""
-                    for row in card.select("div.hrzntl_flex"):
-                        cols = row.find_all("div")
-                        if len(cols) >= 2:
-                            label = cols[1].get_text(strip=True).lower()
-                            match = re.search(r"\d+", cols[1].get_text())
-                            number = match.group() if match else ""
-                            if "business" in label:
-                                business_today = number
-                            elif "outlook" in label:
-                                outlook = number
+                    try:
+                        for row in card_element.find_elements(By.CSS_SELECTOR, "div.hrzntl_flex"):
+                            cols = row.find_elements(By.TAG_NAME, "div")
+                            if len(cols) >= 2:
+                                label = cols[1].text.lower()
+                                match = re.search(r"\d+", cols[1].text)
+                                number = match.group() if match else ""
+                                if "business" in label:
+                                    business_today = number
+                                elif "outlook" in label:
+                                    outlook = number
+                    except:
+                        pass
 
                     colleges_in_section.append({
+                        "college_img": college_img,
                         "name": college_name,
                         "nirf": nirf_rank,
                         "details": {
