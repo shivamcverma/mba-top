@@ -121,14 +121,11 @@ async def periodic_scrape(interval=3600):
         await asyncio.sleep(interval)
 
 # --------------------------- STARTUP EVENT ------------------------------
+
 @app.on_event("startup")
 async def startup_event():
-    global cached_mba_data
-    try:
-        cached_mba_data = await asyncio.to_thread(scrape_mba_colleges)
-    except Exception as e:
-        print(f"Error during initial scraping: {e}")
     asyncio.create_task(periodic_scrape(interval=3600))
+
 
 # --------------------------- UTIL ------------------------------
 def get_all_colleges_with_id():
