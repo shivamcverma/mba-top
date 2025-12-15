@@ -11,7 +11,19 @@ import platform
 
 mba_sections = {
     "Top MBA Colleges in India": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-india/2-2-0-0-0",
+    "Private MBA Colleges in India": "https://www.shiksha.com/mba/ranking/top-private-mba-colleges-in-india/125-2-0-0-0",
+    "Top MBA Colleges in Bangalore": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-bangalore/2-2-0-278-0",
+    "Top MBA Colleges in Mumbai": "https://www.shiksha.com/mba/ranking/top-mba-colleges-in-mumbai/2-2-0-151-0",
+    "Top MBA Colleges in Pune":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-pune/2-2-0-174-0",
+    "Top MBA Colleges in Hydrabaad":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-hyderabad/2-2-0-702-0",
+    "Top MBA Colleges in Delhi":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-delhi/2-2-0-74-0",
+    "Top MBA Colleges in Chennai":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-chennai/2-2-0-64-0",
+    "Top MBA Colleges in Maharastra":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-maharashtra/2-2-114-0-0",
+    "Top MBA Colleges in Kolkata":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-kolkata/2-2-0-130-0",
+    "Top MBA Colleges in Kerla":"https://www.shiksha.com/mba/ranking/top-mba-colleges-in-kerala/2-2-107-0-0",
+ 
 }
+
 
 def create_driver():
     options = Options()
