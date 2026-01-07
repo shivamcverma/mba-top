@@ -3,7 +3,8 @@
     "category": "Top MBA Colleges in India",
     "colleges": [
       {
-        "college_img": "https://images.shiksha.com/mediadata/images/1701780028phpjNSG0M_155x116.jpg",
+        "id": "college_001",
+        "college_img": "https://images.shiksha.com/mediadata/images/1765790567phpRdpiRG.jpeg",
         "name": "IIM Ahmedabad - Indian Institute of Management",
         "nirf": "1",
         "details": {
@@ -16,6 +17,7 @@
         }
       },
       {
+        "id": "college_002",
         "college_img": "https://images.shiksha.com/mediadata/images/1569304658php7k1hKB.jpeg",
         "name": "IIM Bangalore - Indian Institute of Management",
         "nirf": "2",
@@ -29,6 +31,7 @@
         }
       },
       {
+        "id": "college_003",
         "college_img": "https://images.shiksha.com/mediadata/images/1570797818php4BEE8h.jpg",
         "name": "IIM Kozhikode - Indian Institute of Management",
         "nirf": "3",
@@ -42,6 +45,7 @@
         }
       },
       {
+        "id": "college_004",
         "college_img": "https://images.shiksha.com/mediadata/images/1573455834phpeS8G7X.jpeg",
         "name": "Department of Management Studies, IIT Delhi",
         "nirf": "4",
@@ -55,6 +59,7 @@
         }
       },
       {
+        "id": "college_005",
         "college_img": "https://images.shiksha.com/mediadata/images/1571056272phpp0x1kJ.jpg",
         "name": "IIM Lucknow - Indian Institute of Management",
         "nirf": "5",
@@ -68,6 +73,7 @@
         }
       },
       {
+        "id": "college_006",
         "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
         "name": "Indian Institute of Management Mumbai",
         "nirf": "6",
@@ -81,6 +87,7 @@
         }
       },
       {
+        "id": "college_007",
         "college_img": "https://images.shiksha.com/mediadata/images/1633323505php886f45.jpeg",
         "name": "IIM Calcutta - Indian Institute of Management",
         "nirf": "7",
@@ -94,6 +101,7 @@
         }
       },
       {
+        "id": "college_008",
         "college_img": "https://images.shiksha.com/mediadata/images/1750934412php8BChLQ.jpeg",
         "name": "IIM Indore - Indian Institute of Management",
         "nirf": "8",
@@ -107,6 +115,7 @@
         }
       },
       {
+        "id": "college_009",
         "college_img": "https://images.shiksha.com/mediadata/images/1678306463php0noyme.jpeg",
         "name": "Management Development Institute",
         "nirf": "9",
@@ -120,6 +129,7 @@
         }
       },
       {
+        "id": "college_010",
         "college_img": "https://images.shiksha.com/mediadata/images/1695279520php5Kn1e5.jpeg",
         "name": "XLRI Xavier School of Management",
         "nirf": "10",
@@ -133,6 +143,7 @@
         }
       },
       {
+        "id": "college_011",
         "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
         "name": "Symbiosis Institute of Business Management, Symbiosis International, Pune",
         "nirf": "11",
@@ -146,6 +157,7 @@
         }
       },
       {
+        "id": "college_012",
         "college_img": "https://images.shiksha.com/mediadata/images/1763553547phpk3rUm5.jpeg",
         "name": "IIT Kharagpur - Indian Institute of Technology",
         "nirf": "12",
@@ -159,6 +171,7 @@
         }
       },
       {
+        "id": "college_013",
         "college_img": "https://images.shiksha.com/mediadata/images/1563530538phphP5v3h.jpg",
         "name": "DoMS IIT Madras - Department of Management Studies",
         "nirf": "13",
@@ -172,6 +185,7 @@
         }
       },
       {
+        "id": "college_014",
         "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
         "name": "Shailesh J. Mehta School of Management, IIT Bombay",
         "nirf": "14",
@@ -185,6 +199,7 @@
         }
       },
       {
+        "id": "college_015",
         "college_img": "https://images.shiksha.com/mediadata/images/1563533496phphsuKFJ.jpeg",
         "name": "IIM Raipur - Indian Institute of Management",
         "nirf": "15",
@@ -198,6 +213,7 @@
         }
       },
       {
+        "id": "college_016",
         "college_img": "https://images.shiksha.com/mediadata/images/1578553506phpDflDN8.jpeg",
         "name": "IIM Trichy - Indian Institute of Management",
         "nirf": "16",
@@ -211,6 +227,7 @@
         }
       },
       {
+        "id": "college_017",
         "college_img": "https://images.shiksha.com/mediadata/images/1569564397phpS7Y5kG.jpg",
         "name": "Indian Institute of Foreign Trade, Delhi",
         "nirf": "17",
@@ -224,6 +241,7 @@
         }
       },
       {
+        "id": "college_018",
         "college_img": "https://images.shiksha.com/mediadata/images/1564478769php4OVEWw.jpg",
         "name": "IIM Ranchi - Indian Institute of Management",
         "nirf": "18",
@@ -237,6 +255,7 @@
         }
       },
       {
+        "id": "college_019",
         "college_img": "https://images.shiksha.com/mediadata/images/1607685900phpaJ0JlG.jpg",
         "name": "IIM Rohtak - Indian Institute of Management",
         "nirf": "19",
@@ -250,6 +269,7 @@
         }
       },
       {
+        "id": "college_020",
         "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
         "name": "S.P. Jain Institute of Management and Research, Mumbai",
         "nirf": "20",
@@ -263,6 +283,7 @@
         }
       },
       {
+        "id": "college_021",
         "college_img": "https://images.shiksha.com/mediadata/images/1691660749phpX7P1dY.jpeg",
         "name": "IIM Udaipur - Indian Institute of Management",
         "nirf": "21",
@@ -276,6 +297,7 @@
         }
       },
       {
+        "id": "college_022",
         "college_img": "https://images.shiksha.com/mediadata/images/1570094042phpyJMujv.jpg",
         "name": "IIT Roorkee - Indian Institute of Technology",
         "nirf": "22",
@@ -289,6 +311,7 @@
         }
       },
       {
+        "id": "college_023",
         "college_img": "https://images.shiksha.com/mediadata/images/1563533272phpRK5JfG.jpeg",
         "name": "IIM Kashipur - Indian Institute of Management",
         "nirf": "23",
@@ -302,6 +325,7 @@
         }
       },
       {
+        "id": "college_024",
         "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
         "name": "Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
         "nirf": "24",
@@ -315,6 +339,7 @@
         }
       },
       {
+        "id": "college_025",
         "college_img": "https://images.shiksha.com/mediadata/images/1726207440php9qChiQ.jpeg",
         "name": "IIM Nagpur - Indian Institute of Management",
         "nirf": "25",
@@ -328,6 +353,7 @@
         }
       },
       {
+        "id": "college_026",
         "college_img": "https://images.shiksha.com/mediadata/images/1635479535php6meTwr.jpeg",
         "name": "Amrita Vishwa Vidyapeetham, Coimbatore",
         "nirf": "26",
@@ -341,6 +367,7 @@
         }
       },
       {
+        "id": "college_027",
         "college_img": "https://images.shiksha.com/mediadata/images/1578553614phpoUVlqN.jpeg",
         "name": "IIT Kanpur - Department of Industrial and Management Engineering",
         "nirf": "27",
@@ -354,6 +381,7 @@
         }
       },
       {
+        "id": "college_028",
         "college_img": "https://images.shiksha.com/mediadata/images/1638347515phpcd2cDM.jpeg",
         "name": "Jamia Millia Islamia",
         "nirf": "28",
@@ -367,6 +395,7 @@
         }
       },
       {
+        "id": "college_029",
         "college_img": "https://images.shiksha.com/mediadata/images/1653032560phpDRGxMC.jpeg",
         "name": "IIM Visakhapatnam - Indian Institute of Management",
         "nirf": "29",
@@ -380,11 +409,12 @@
         }
       },
       {
+        "id": "college_030",
         "college_img": "https://images.shiksha.com/mediadata/images/1637822596phpAMIVxa.jpeg",
         "name": "IMT Ghaziabad - Institute of Management Technology",
         "nirf": "30",
         "details": {
-          "fees": ": ₹ 20.80 Lakh",
+          "fees": ": ₹ 22.27 Lakh",
           "salary": ": ₹ 15.00 Lakh",
           "rankings": {
             "business_today": "24",
@@ -393,6 +423,7 @@
         }
       },
       {
+        "id": "college_031",
         "college_img": "https://images.shiksha.com/mediadata/images/1597908300php6fLJAQ.jpg",
         "name": "IIM Bodh Gaya - Indian Institute of Management",
         "nirf": "31",
@@ -406,6 +437,7 @@
         }
       },
       {
+        "id": "college_032",
         "college_img": "https://images.shiksha.com/mediadata/images/1610694069phpYY6cff.jpeg",
         "name": "Chandigarh University (CU)",
         "nirf": "32",
@@ -419,6 +451,7 @@
         }
       },
       {
+        "id": "college_033",
         "college_img": "https://images.shiksha.com/mediadata/images/1664278744phpxSZA4i.jpeg",
         "name": "MICA",
         "nirf": "33",
@@ -432,6 +465,7 @@
         }
       },
       {
+        "id": "college_034",
         "college_img": "https://images.shiksha.com/mediadata/images/1606455249php3F9VFy.jpg",
         "name": "IIM Sambalpur - Indian Institute of Management",
         "nirf": "34",
@@ -445,6 +479,7 @@
         }
       },
       {
+        "id": "college_035",
         "college_img": "https://images.shiksha.com/mediadata/images/1601453760phpwm5SgN.jpeg",
         "name": "IIM Jammu - Indian Institute of Management",
         "nirf": "35",
@@ -458,6 +493,7 @@
         }
       },
       {
+        "id": "college_036",
         "college_img": "https://images.shiksha.com/mediadata/images/1725957209php9GA3XN.jpeg",
         "name": "UPES",
         "nirf": "36",
@@ -471,11 +507,12 @@
         }
       },
       {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207241phpV7h7Hq.jpeg",
+        "id": "college_037",
+        "college_img": "https://images.shiksha.com/mediadata/images/1765875111phpcNwS10.jpeg",
         "name": "Great Lakes Institute of Management, Chennai",
         "nirf": "37",
         "details": {
-          "fees": ": ₹ 11.50 Lakh",
+          "fees": ": ₹ 19.39 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "24",
@@ -484,6 +521,7 @@
         }
       },
       {
+        "id": "college_038",
         "college_img": "https://images.shiksha.com/mediadata/images/1652878018phpPjtmnc.jpeg",
         "name": "IIM Shillong - Indian Institute of Management",
         "nirf": "38",
@@ -497,6 +535,7 @@
         }
       },
       {
+        "id": "college_039",
         "college_img": "https://images.shiksha.com/mediadata/images/1638354824phpWDjI6H.jpeg",
         "name": "T A Pai Management Institute, Manipal, MAHE",
         "nirf": "39",
@@ -510,6 +549,7 @@
         }
       },
       {
+        "id": "college_040",
         "college_img": "https://images.shiksha.com/mediadata/images/1759729744php91NZG2.jpeg",
         "name": "IMI Delhi",
         "nirf": "40",
@@ -523,6 +563,7 @@
         }
       },
       {
+        "id": "college_041",
         "college_img": "https://images.shiksha.com/mediadata/images/1763970470phpIc4PeN.jpeg",
         "name": "Jaipuria Noida - Jaipuria Institute of Management",
         "nirf": "41",
@@ -536,6 +577,7 @@
         }
       },
       {
+        "id": "college_042",
         "college_img": "https://images.shiksha.com/mediadata/images/1759729728phpJlmD9C.jpeg",
         "name": "IMI Kolkata",
         "nirf": "42",
@@ -549,6 +591,7 @@
         }
       },
       {
+        "id": "college_043",
         "college_img": "https://images.shiksha.com/mediadata/images/1736830947phpD8rfpn.jpeg",
         "name": "Goa Institute of Management",
         "nirf": "43",
@@ -562,6 +605,7 @@
         }
       },
       {
+        "id": "college_044",
         "college_img": "https://images.shiksha.com/mediadata/images/1704968843phpDyxRO9.jpeg",
         "name": "LPU - Lovely Professional University",
         "nirf": "44",
@@ -575,6 +619,7 @@
         }
       },
       {
+        "id": "college_045",
         "college_img": "https://images.shiksha.com/mediadata/images/1602834487phpjP895g.jpg",
         "name": "Xavier School of Rural Management, Xavier University Bhubaneswar",
         "nirf": "45",
@@ -588,6 +633,21 @@
         }
       },
       {
+        "id": "college_046",
+        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
+        "name": "IFHE Hyderabad - ICFAI Foundation For Higher Education",
+        "nirf": "46",
+        "details": {
+          "fees": ": ₹ 1.80 Lakh",
+          "salary": "",
+          "rankings": {
+            "business_today": "24",
+            "outlook": "26"
+          }
+        }
+      },
+      {
+        "id": "college_047",
         "college_img": "https://images.shiksha.com/mediadata/images/1732273262phpoZsw00.jpeg",
         "name": "LM Thapar School of Management",
         "nirf": "46",
@@ -601,19 +661,7 @@
         }
       },
       {
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "IFHE Hyderabad - ICFAI Foundation For Higher Education",
-        "nirf": "46",
-        "details": {
-          "fees": ": ₹ 1.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
+        "id": "college_048",
         "college_img": "https://images.shiksha.com/mediadata/images/1563536760phpDBfxzT.jpeg",
         "name": "IIT Dhanbad (ISM) - Indian Institute of Technology (ISM)",
         "nirf": "48",
@@ -627,6 +675,7 @@
         }
       },
       {
+        "id": "college_049",
         "college_img": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
         "name": "Amity University, Noida",
         "nirf": "49",
@@ -640,12 +689,13 @@
         }
       },
       {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726206268phpmd6WOl.jpeg",
+        "id": "college_050",
+        "college_img": "https://images.shiksha.com/mediadata/images/1765867671phpZTMgEk.jpeg",
         "name": "Great Lakes Institute of Management, Gurgaon",
         "nirf": "50",
         "details": {
-          "fees": ": ₹ 7.75 Lakh",
-          "salary": ": ₹ 11.50 Lakh",
+          "fees": ": ₹ 13.35 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -653,6 +703,7 @@
         }
       },
       {
+        "id": "college_051",
         "college_img": "https://images.shiksha.com/mediadata/images/1563533727phpwoLMWS.jpeg",
         "name": "IIM Sirmaur - Indian Institute of Management",
         "nirf": "51",
@@ -666,6 +717,7 @@
         }
       },
       {
+        "id": "college_052",
         "college_img": "https://images.shiksha.com/mediadata/images/1762424749phpXkb82f.jpeg",
         "name": "Graphic Era Deemed to be University",
         "nirf": "52",
@@ -679,6 +731,7 @@
         }
       },
       {
+        "id": "college_053",
         "college_img": "https://images.shiksha.com/mediadata/images/1681127103php5tRAhH.jpeg",
         "name": "Institute of Management, Nirma University",
         "nirf": "53",
@@ -692,6 +745,7 @@
         }
       },
       {
+        "id": "college_054",
         "college_img": "https://images.shiksha.com/mediadata/images/1765174477php8qqAOO.jpeg",
         "name": "Tribhuvan Sahkari University",
         "nirf": "54",
@@ -705,6 +759,7 @@
         }
       },
       {
+        "id": "college_055",
         "college_img": "https://images.shiksha.com/mediadata/images/1637485936phpILRv55.jpeg",
         "name": "Loyola Institute of Business Administration",
         "nirf": "55",
@@ -718,6 +773,7 @@
         }
       },
       {
+        "id": "college_056",
         "college_img": "https://images.shiksha.com/mediadata/images/1694688219phpT8Q5U2.jpeg",
         "name": "SRM Medical College Hospital and Research Centre, SRM IST, Kattankulathur",
         "nirf": "56",
@@ -731,6 +787,7 @@
         }
       },
       {
+        "id": "college_057",
         "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
         "name": "Christ University",
         "nirf": "57",
@@ -744,6 +801,7 @@
         }
       },
       {
+        "id": "college_058",
         "college_img": "https://images.shiksha.com/mediadata/images/1569393544phpF4H6mc.jpg",
         "name": "NIT Trichy - National Institute of Technology",
         "nirf": "57",
@@ -757,6 +815,7 @@
         }
       },
       {
+        "id": "college_059",
         "college_img": "https://images.shiksha.com/mediadata/images/1764923013phpIACn5v.jpeg",
         "name": "FORE School of Management",
         "nirf": "59",
@@ -770,6 +829,7 @@
         }
       },
       {
+        "id": "college_060",
         "college_img": "https://images.shiksha.com/mediadata/images/1668491054phphb9JXU.jpeg",
         "name": "Banaras Hindu University",
         "nirf": "60",
@@ -783,6 +843,7 @@
         }
       },
       {
+        "id": "college_061",
         "college_img": "https://images.shiksha.com/mediadata/images/1669716806phpaKNtZE.jpeg",
         "name": "Birla Institute of Management Technology",
         "nirf": "61",
@@ -796,6 +857,7 @@
         }
       },
       {
+        "id": "college_062",
         "college_img": "https://images.shiksha.com/mediadata/images/1636373002phpGq8a3Y.jpeg",
         "name": "MNIT Jaipur - Malaviya National Institute of Technology",
         "nirf": "62",
@@ -809,6 +871,7 @@
         }
       },
       {
+        "id": "college_063",
         "college_img": "https://images.shiksha.com/mediadata/images/1428315842php31MAaD.jpg",
         "name": "Saveetha Institute of Medical and Technical Sciences, Poonamallee",
         "nirf": "63",
@@ -822,6 +885,7 @@
         }
       },
       {
+        "id": "college_064",
         "college_img": "https://images.shiksha.com/mediadata/images/1603446013phpA8jACR.jpg",
         "name": "IIM Amritsar - Indian Institute of Management",
         "nirf": "64",
@@ -835,6 +899,7 @@
         }
       },
       {
+        "id": "college_065",
         "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
         "name": "K J Somaiya Institute of Management",
         "nirf": "65",
@@ -848,6 +913,7 @@
         }
       },
       {
+        "id": "college_066",
         "college_img": "https://images.shiksha.com/mediadata/images/1739958464phpUHhn4U.jpeg",
         "name": "SOA University - Siksha 'O' Anusandhan",
         "nirf": "66",
@@ -861,6 +927,7 @@
         }
       },
       {
+        "id": "college_067",
         "college_img": "https://images.shiksha.com/mediadata/images/1661339142phpLt5F71.jpeg",
         "name": "Jaipuria Lucknow - Jaipuria Institute of Management",
         "nirf": "67",
@@ -874,6 +941,7 @@
         }
       },
       {
+        "id": "college_068",
         "college_img": "https://images.shiksha.com/mediadata/images/1572333621phpd82oNW.jpg",
         "name": "KIIT School of Management, Kalinga Institute of Industrial Technology",
         "nirf": "68",
@@ -887,6 +955,7 @@
         }
       },
       {
+        "id": "college_069",
         "college_img": "https://images.shiksha.com/mediadata/images/1569392346php2iuhv6.jpg",
         "name": "Aligarh Muslim University",
         "nirf": "69",
@@ -900,6 +969,7 @@
         }
       },
       {
+        "id": "college_070",
         "college_img": "https://images.shiksha.com/mediadata/images/1459838288phpDdWRn8.jpg",
         "name": "KL Business School, KL University, Guntur",
         "nirf": "70",
@@ -913,6 +983,7 @@
         }
       },
       {
+        "id": "college_071",
         "college_img": "https://images.shiksha.com/mediadata/images/1736748552phpxfMLIH.jpeg",
         "name": "Alliance University, Bangalore",
         "nirf": "71",
@@ -926,6 +997,7 @@
         }
       },
       {
+        "id": "college_072",
         "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
         "name": "Institute of Management Technology, Hyderabad",
         "nirf": "72",
@@ -939,6 +1011,7 @@
         }
       },
       {
+        "id": "college_073",
         "college_img": "https://images.shiksha.com/mediadata/images/1604990245php0CBicM.jpeg",
         "name": "Jain Deemed-to-be University, Bangalore",
         "nirf": "73",
@@ -952,6 +1025,7 @@
         }
       },
       {
+        "id": "college_074",
         "college_img": "https://images.shiksha.com/mediadata/images/1763970537phpXTAu3m.jpeg",
         "name": "Jaipuria Jaipur - Jaipuria Institute of Management",
         "nirf": "74",
@@ -965,6 +1039,7 @@
         }
       },
       {
+        "id": "college_075",
         "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
         "name": "Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
         "nirf": "75",
@@ -978,6 +1053,7 @@
         }
       },
       {
+        "id": "college_076",
         "college_img": "https://images.shiksha.com/mediadata/images/1569302305phpg8lyZi.jpg",
         "name": "Guru Gobind Singh Indraprastha University",
         "nirf": "76",
@@ -991,6 +1067,7 @@
         }
       },
       {
+        "id": "college_077",
         "college_img": "https://images.shiksha.com/mediadata/images/1610434025php3UEz0G.jpeg",
         "name": "School of Management, BML Munjal University",
         "nirf": "77",
@@ -1004,6 +1081,7 @@
         }
       },
       {
+        "id": "college_078",
         "college_img": "https://images.shiksha.com/mediadata/images/1694019700php3r5oRJ.jpeg",
         "name": "Chitkara College of Sales and Marketing, Chitkara University, Chandigarh",
         "nirf": "78",
@@ -1017,7 +1095,8 @@
         }
       },
       {
-        "college_img": "https://images.shiksha.com/mediadata/images/1487156223php9wTNhV_155x116.jpg",
+        "id": "college_079",
+        "college_img": "https://images.shiksha.com/mediadata/images/1491299799phpR3HMtG_155x116.png",
         "name": "Babasaheb Bhimrao Ambedkar University (BBAU), Lucknow",
         "nirf": "79",
         "details": {
@@ -1030,6 +1109,7 @@
         }
       },
       {
+        "id": "college_080",
         "college_img": "https://images.shiksha.com/mediadata/images/1727174228phpUC1AFE.jpeg",
         "name": "Thiagarajar School of Management",
         "nirf": "80",
@@ -1043,6 +1123,7 @@
         }
       },
       {
+        "id": "college_081",
         "college_img": "https://images.shiksha.com/mediadata/images/1745814435php3DDO0b.jpeg",
         "name": "Manipal University, Jaipur",
         "nirf": "81",
@@ -1056,6 +1137,7 @@
         }
       },
       {
+        "id": "college_082",
         "college_img": "https://images.shiksha.com/mediadata/images/1571295613phpdzmJh4.jpeg",
         "name": "Cochin University of Science and Technology, Kochi",
         "nirf": "82",
@@ -1069,6 +1151,7 @@
         }
       },
       {
+        "id": "college_083",
         "college_img": "https://images.shiksha.com/mediadata/images/1645614667phpzU1vlh.jpeg",
         "name": "Madan Mohan Malviya University of Technology",
         "nirf": "83",
@@ -1082,6 +1165,7 @@
         }
       },
       {
+        "id": "college_084",
         "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
         "name": "PSGCT Coimbatore",
         "nirf": "84",
@@ -1095,6 +1179,7 @@
         }
       },
       {
+        "id": "college_085",
         "college_img": "https://images.shiksha.com/mediadata/images/1570094474php6AZ4Dh.jpeg",
         "name": "NIT Calicut - National Institute of Technology",
         "nirf": "85",
@@ -1108,6 +1193,7 @@
         }
       },
       {
+        "id": "college_086",
         "college_img": "https://images.shiksha.com/mediadata/images/1759722753phpRCKiIQ.jpeg",
         "name": "New Delhi Institute of Management",
         "nirf": "86",
@@ -1121,6 +1207,7 @@
         }
       },
       {
+        "id": "college_087",
         "college_img": "https://images.shiksha.com/mediadata/images/1570094621phptvGtLV.jpeg",
         "name": "Jamia Hamdard",
         "nirf": "87",
@@ -1134,6 +1221,7 @@
         }
       },
       {
+        "id": "college_088",
         "college_img": "https://images.shiksha.com/mediadata/images/1571724654phpr3XbQF.jpg",
         "name": "College of Engineering, Anna University",
         "nirf": "88",
@@ -1147,6 +1235,7 @@
         }
       },
       {
+        "id": "college_089",
         "college_img": "https://images.shiksha.com/mediadata/images/1678358571phpTn2LQC.jpeg",
         "name": "SoM, Pandit Deendayal Energy University (PDEU)",
         "nirf": "89",
@@ -1160,6 +1249,7 @@
         }
       },
       {
+        "id": "college_090",
         "college_img": "https://images.shiksha.com/mediadata/images/1758877172phpOWg1kJ.jpeg",
         "name": "Jagan Institute of Management Studies, Rohini",
         "nirf": "90",
@@ -1173,6 +1263,7 @@
         }
       },
       {
+        "id": "college_091",
         "college_img": "https://images.shiksha.com/mediadata/images/1736930165phpZ4TD5k.jpeg",
         "name": "Rajagiri Business School",
         "nirf": "91",
@@ -1186,6 +1277,7 @@
         }
       },
       {
+        "id": "college_092",
         "college_img": "https://images.shiksha.com/mediadata/images/1569238887phpn4LbZ8.jpeg",
         "name": "Panjab University",
         "nirf": "92",
@@ -1199,6 +1291,7 @@
         }
       },
       {
+        "id": "college_093",
         "college_img": "https://images.shiksha.com/mediadata/images/1609308018phpA4JpiI.jpeg",
         "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
         "nirf": "93",
@@ -1212,6 +1305,7 @@
         }
       },
       {
+        "id": "college_094",
         "college_img": "https://images.shiksha.com/mediadata/images/1759729700phpaRzdxZ.jpeg",
         "name": "IMI Bhubaneswar",
         "nirf": "94",
@@ -1225,6 +1319,7 @@
         }
       },
       {
+        "id": "college_095",
         "college_img": "https://images.shiksha.com/mediadata/images/1646367733php2FlG5a.jpeg",
         "name": "National Institute of Agricultural Extension Management (MANAGE)",
         "nirf": "95",
@@ -1238,6 +1333,7 @@
         }
       },
       {
+        "id": "college_096",
         "college_img": "https://images.shiksha.com/mediadata/images/1737967969phpe0YPZ7.jpeg",
         "name": "Bharathidasan Institute of Management, Trichy (BIM, Trichy)",
         "nirf": "96",
@@ -1251,6 +1347,7 @@
         }
       },
       {
+        "id": "college_097",
         "college_img": "https://images.shiksha.com/mediadata/images/1687785782phpmmSmvn.jpeg",
         "name": "Birla Institute of Technology, Mesra",
         "nirf": "97",
@@ -1264,6 +1361,7 @@
         }
       },
       {
+        "id": "college_098",
         "college_img": "https://images.shiksha.com/mediadata/images/1600947270phpH4Rd8R.jpg",
         "name": "IIT Jodhpur - Indian Institute of Technology",
         "nirf": "98",
@@ -1277,12 +1375,13 @@
         }
       },
       {
+        "id": "college_099",
         "college_img": "https://images.shiksha.com/mediadata/images/1726497299phpugB6Oz.jpeg",
         "name": "IMT Nagpur - Institute of Management Technology",
         "nirf": "99",
         "details": {
-          "fees": ": ₹ 14.27 Lakh",
-          "salary": ": ₹ 10.81 Lakh",
+          "fees": ": ₹ 15.27 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -1290,6 +1389,7 @@
         }
       },
       {
+        "id": "college_100",
         "college_img": "https://images.shiksha.com/mediadata/images/1650846956phpTjtV4E.jpeg",
         "name": "University of Lucknow",
         "nirf": "100",
@@ -1303,6 +1403,7 @@
         }
       },
       {
+        "id": "college_101",
         "college_img": "https://images.shiksha.com/mediadata/images/1569562541phpv3Yvom.jpeg",
         "name": "Amity University, Kolkata",
         "nirf": "101-125",
@@ -1316,6 +1417,7 @@
         }
       },
       {
+        "id": "college_102",
         "college_img": "https://images.shiksha.com/mediadata/images/1586962878php20w0Ke.jpeg",
         "name": "Amity University, Gurugram",
         "nirf": "101-125",
@@ -1329,6 +1431,7 @@
         }
       },
       {
+        "id": "college_103",
         "college_img": "https://images.shiksha.com/mediadata/images/1651837062phpaTKaev.jpeg",
         "name": "Amity University, Patna",
         "nirf": "101-125",
@@ -1342,11 +1445,12 @@
         }
       },
       {
+        "id": "college_104",
         "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
         "name": "Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
         "nirf": "101-125",
         "details": {
-          "fees": ": ₹ 5.91 Lakh",
+          "fees": ": ₹ 8.00 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "24",
@@ -1355,6 +1459,7 @@
         }
       },
       {
+        "id": "college_105",
         "college_img": "https://images.shiksha.ws/public/images/instDefault_210x157.png",
         "name": "Chandigarh Business School of Administration",
         "nirf": "101-125",
@@ -1368,6 +1473,7 @@
         }
       },
       {
+        "id": "college_106",
         "college_img": "https://images.shiksha.com/mediadata/images/1746176400phpwfmUm0.jpeg",
         "name": "GLA University",
         "nirf": "101-125",
@@ -1381,6 +1487,7 @@
         }
       },
       {
+        "id": "college_107",
         "college_img": "https://images.shiksha.com/mediadata/images/1569477243php7w52lR.jpg",
         "name": "Galgotias University",
         "nirf": "101-125",
@@ -1394,8 +1501,9 @@
         }
       },
       {
-        "college_img": "https://images.shiksha.com/mediadata/images/1739366390php5cbHz1.jpeg",
-        "name": "GITAM (Deemed to be University), Visakhapatnam",
+        "id": "college_108",
+        "college_img": "https://images.shiksha.com/mediadata/images/1739430257phpssByfk.jpeg",
+        "name": "GITAM School of Business, Visakhapatnam",
         "nirf": "101-125",
         "details": {
           "fees": ": ₹ 10.82 Lakh",
@@ -1407,6 +1515,7 @@
         }
       },
       {
+        "id": "college_109",
         "college_img": "https://images.shiksha.com/mediadata/images/1209037466php6NqdYK_m.jpeg",
         "name": "GJUST- Guru Jambheshwar University of Science And Technology",
         "nirf": "101-125",
@@ -1420,6 +1529,7 @@
         }
       },
       {
+        "id": "college_110",
         "college_img": "https://images.shiksha.com/mediadata/images/1570697333php5mUZtq.jpg",
         "name": "Hindustan Institute of Technology and Science",
         "nirf": "101-125",
@@ -1433,6 +1543,7 @@
         }
       },
       {
+        "id": "college_111",
         "college_img": "https://images.shiksha.com/mediadata/images/1388129178phpBc8huY.gif",
         "name": "National Academy of Agricultural Research Management",
         "nirf": "101-125",
@@ -1446,6 +1557,7 @@
         }
       },
       {
+        "id": "college_112",
         "college_img": "https://images.shiksha.com/mediadata/images/1682401891phpJCM8Pg.jpeg",
         "name": "IIHMR University",
         "nirf": "101-125",
@@ -1459,6 +1571,7 @@
         }
       },
       {
+        "id": "college_113",
         "college_img": "https://images.shiksha.com/mediadata/images/1661336639phpCObMao.jpeg",
         "name": "Jaipuria Indore - Jaipuria Institute of Management",
         "nirf": "101-125",
@@ -1472,6 +1585,7 @@
         }
       },
       {
+        "id": "college_114",
         "college_img": "https://images.shiksha.com/mediadata/images/1757486864phpp3NS3K.jpeg",
         "name": "LBSIM - Lal Bahadur Shastri Institute of Management",
         "nirf": "101-125",
@@ -1485,6 +1599,7 @@
         }
       },
       {
+        "id": "college_115",
         "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
         "name": "National Institute of Bank Management",
         "nirf": "101-125",
@@ -1498,6 +1613,7 @@
         }
       },
       {
+        "id": "college_116",
         "college_img": "https://images.shiksha.com/mediadata/images/1717151114phpB0O9Et.jpeg",
         "name": "OPJU - OP Jindal University, Raigarh",
         "nirf": "101-125",
@@ -1511,12 +1627,13 @@
         }
       },
       {
-        "college_img": "https://images.shiksha.com/mediadata/images/1742281679phps2nkAD.jpeg",
-        "name": "Presidency University, Bangalore",
+        "id": "college_117",
+        "college_img": "https://images.shiksha.com/mediadata/images/1628145945phpTj61pa.jpeg",
+        "name": "School of Management, Presidency University, Bangalore",
         "nirf": "101-125",
         "details": {
-          "fees": "",
-          "salary": "",
+          "fees": ": ₹ 8.00 Lakh",
+          "salary": ": ₹ 6.00 Lakh",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -1524,11 +1641,12 @@
         }
       },
       {
+        "id": "college_118",
         "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
         "name": "Pune Institute of Business Management",
         "nirf": "101-125",
         "details": {
-          "fees": ": ₹ 8.95 Lakh",
+          "fees": ": ₹ 9.45 Lakh",
           "salary": ": ₹ 8.15 Lakh",
           "rankings": {
             "business_today": "24",
@@ -1537,6 +1655,7 @@
         }
       },
       {
+        "id": "college_119",
         "college_img": "https://images.shiksha.com/mediadata/images/1326454976phpJ5GYcu.jpeg",
         "name": "Sharda School of Business Studies",
         "nirf": "101-125",
@@ -1550,11 +1669,12 @@
         }
       },
       {
+        "id": "college_120",
         "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
         "name": "Balaji Institute of Modern Management, Sri Balaji University",
         "nirf": "101-125",
         "details": {
-          "fees": ": ₹ 11.90 Lakh",
+          "fees": ": ₹ 12.75 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "24",
@@ -1563,6 +1683,7 @@
         }
       },
       {
+        "id": "college_121",
         "college_img": "https://images.shiksha.com/mediadata/images/1570438145phpFEpyLu.jpeg",
         "name": "Tezpur University",
         "nirf": "101-125",
@@ -1576,6 +1697,7 @@
         }
       },
       {
+        "id": "college_122",
         "college_img": "https://images.shiksha.com/mediadata/images/1570092989phpuAmBi3.jpg",
         "name": "Allahabad University",
         "nirf": "101-125",
@@ -1589,6 +1711,7 @@
         }
       },
       {
+        "id": "college_123",
         "college_img": "https://images.shiksha.com/mediadata/images/1570180875phplaqBmm.jpg",
         "name": "UoH - University of Hyderabad",
         "nirf": "101-125",
@@ -1602,5041 +1725,13 @@
         }
       },
       {
+        "id": "college_124",
         "college_img": "https://images.shiksha.com/mediadata/images/1764919518phpykfJPu.jpeg",
         "name": "Vignan's Foundation for Science, Technology and Research",
         "nirf": "101-125",
         "details": {
           "fees": ": ₹ 4.00 Lakh",
           "salary": ": ₹ 5.70 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Private MBA Colleges in India",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1678306463php0noyme.jpeg",
-        "name": "Management Development Institute",
-        "nirf": "9",
-        "details": {
-          "fees": ": ₹ 26.00 Lakh",
-          "salary": ": ₹ 26.20 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1695279520php5Kn1e5.jpeg",
-        "name": "XLRI Xavier School of Management",
-        "nirf": "10",
-        "details": {
-          "fees": ": ₹ 30.60 Lakh",
-          "salary": ": ₹ 29.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635479535php6meTwr.jpeg",
-        "name": "Amrita Vishwa Vidyapeetham, Coimbatore",
-        "nirf": "26",
-        "details": {
-          "fees": ": ₹ 2.20 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637822596phpAMIVxa.jpeg",
-        "name": "IMT Ghaziabad - Institute of Management Technology",
-        "nirf": "30",
-        "details": {
-          "fees": ": ₹ 20.80 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1610694069phpYY6cff.jpeg",
-        "name": "Chandigarh University (CU)",
-        "nirf": "32",
-        "details": {
-          "fees": ": ₹ 6.78 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1664278744phpxSZA4i.jpeg",
-        "name": "MICA",
-        "nirf": "33",
-        "details": {
-          "fees": ": ₹ 28.00 Lakh",
-          "salary": ": ₹ 18.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1725957209php9GA3XN.jpeg",
-        "name": "UPES",
-        "nirf": "36",
-        "details": {
-          "fees": ": ₹ 17.33 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207241phpV7h7Hq.jpeg",
-        "name": "Great Lakes Institute of Management, Chennai",
-        "nirf": "37",
-        "details": {
-          "fees": ": ₹ 9.45 Lakh",
-          "salary": ": ₹ 14.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1638354824phpWDjI6H.jpeg",
-        "name": "T A Pai Management Institute, Manipal, MAHE",
-        "nirf": "39",
-        "details": {
-          "fees": ": ₹ 19.50 Lakh",
-          "salary": ": ₹ 13.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729744php91NZG2.jpeg",
-        "name": "IMI Delhi",
-        "nirf": "40",
-        "details": {
-          "fees": ": ₹ 20.64 Lakh",
-          "salary": ": ₹ 16.61 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1763970470phpIc4PeN.jpeg",
-        "name": "Jaipuria Noida - Jaipuria Institute of Management",
-        "nirf": "41",
-        "details": {
-          "fees": ": ₹ 15.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729728phpJlmD9C.jpeg",
-        "name": "IMI Kolkata",
-        "nirf": "42",
-        "details": {
-          "fees": ": ₹ 12.08 Lakh",
-          "salary": ": ₹ 12.49 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736830947phpD8rfpn.jpeg",
-        "name": "Goa Institute of Management",
-        "nirf": "43",
-        "details": {
-          "fees": ": ₹ 21.45 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1704968843phpDyxRO9.jpeg",
-        "name": "LPU - Lovely Professional University",
-        "nirf": "44",
-        "details": {
-          "fees": ": ₹ 8.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1602834487phpjP895g.jpg",
-        "name": "Xavier School of Rural Management, Xavier University Bhubaneswar",
-        "nirf": "45",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": ": ₹ 11.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "IFHE Hyderabad - ICFAI Foundation For Higher Education",
-        "nirf": "46",
-        "details": {
-          "fees": ": ₹ 1.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
-        "name": "Amity University, Noida",
-        "nirf": "49",
-        "details": {
-          "fees": ": ₹ 7.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726206268phpmd6WOl.jpeg",
-        "name": "Great Lakes Institute of Management, Gurgaon",
-        "nirf": "50",
-        "details": {
-          "fees": ": ₹ 7.75 Lakh",
-          "salary": ": ₹ 11.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1762424749phpXkb82f.jpeg",
-        "name": "Graphic Era Deemed to be University",
-        "nirf": "52",
-        "details": {
-          "fees": ": ₹ 7.17 Lakh",
-          "salary": ": ₹ 7.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1681127103php5tRAhH.jpeg",
-        "name": "Institute of Management, Nirma University",
-        "nirf": "53",
-        "details": {
-          "fees": ": ₹ 12.80 Lakh",
-          "salary": ": ₹ 10.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1765174477php8qqAOO.jpeg",
-        "name": "Tribhuvan Sahkari University",
-        "nirf": "54",
-        "details": {
-          "fees": ": ₹ 16.44 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637485936phpILRv55.jpeg",
-        "name": "Loyola Institute of Business Administration",
-        "nirf": "55",
-        "details": {
-          "fees": ": ₹ 14.47 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1749301265php1eFrQM.jpeg",
-        "name": "School of Public Health, SRM IST, Kanchipuram",
-        "nirf": "56",
-        "details": {
-          "fees": ": ₹ 4.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
-        "name": "Christ University",
-        "nirf": "57",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1764923013phpIACn5v.jpeg",
-        "name": "FORE School of Management",
-        "nirf": "59",
-        "details": {
-          "fees": ": ₹ 23.24 Lakh",
-          "salary": ": ₹ 15.20 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1669716806phpaKNtZE.jpeg",
-        "name": "Birla Institute of Management Technology",
-        "nirf": "61",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1428315842php31MAaD.jpg",
-        "name": "Saveetha Institute of Medical and Technical Sciences, Poonamallee",
-        "nirf": "63",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1739958464phpUHhn4U.jpeg",
-        "name": "SOA University - Siksha 'O' Anusandhan",
-        "nirf": "66",
-        "details": {
-          "fees": ": ₹ 7.40 Lakh",
-          "salary": ": ₹ 4.80 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1661339142phpLt5F71.jpeg",
-        "name": "Jaipuria Lucknow - Jaipuria Institute of Management",
-        "nirf": "67",
-        "details": {
-          "fees": ": ₹ 14.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1572333621phpd82oNW.jpg",
-        "name": "KIIT School of Management, Kalinga Institute of Industrial Technology",
-        "nirf": "68",
-        "details": {
-          "fees": ": ₹ 9.70 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1459838288phpDdWRn8.jpg",
-        "name": "KL Business School, KL University, Guntur",
-        "nirf": "70",
-        "details": {
-          "fees": ": ₹ 6.70 Lakh",
-          "salary": ": ₹ 5.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736748552phpxfMLIH.jpeg",
-        "name": "Alliance University, Bangalore",
-        "nirf": "71",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
-        "name": "Institute of Management Technology, Hyderabad",
-        "nirf": "72",
-        "details": {
-          "fees": ": ₹ 16.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1604990245php0CBicM.jpeg",
-        "name": "Jain Deemed-to-be University, Bangalore",
-        "nirf": "73",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1763970537phpXTAu3m.jpeg",
-        "name": "Jaipuria Jaipur - Jaipuria Institute of Management",
-        "nirf": "74",
-        "details": {
-          "fees": ": ₹ 13.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1610434025php3UEz0G.jpeg",
-        "name": "School of Management, BML Munjal University",
-        "nirf": "77",
-        "details": {
-          "fees": ": ₹ 14.60 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1694019700php3r5oRJ.jpeg",
-        "name": "Chitkara College of Sales and Marketing, Chitkara University, Chandigarh",
-        "nirf": "78",
-        "details": {
-          "fees": ": ₹ 3.30 Lakh",
-          "salary": ": ₹ 11.06 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1727174228phpUC1AFE.jpeg",
-        "name": "Thiagarajar School of Management",
-        "nirf": "80",
-        "details": {
-          "fees": ": ₹ 11.00 Lakh",
-          "salary": ": ₹ 8.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1745814435php3DDO0b.jpeg",
-        "name": "Manipal University, Jaipur",
-        "nirf": "81",
-        "details": {
-          "fees": ": ₹ 10.20 Lakh",
-          "salary": ": ₹ 7.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569238062phpa9bgzi.jpeg",
-        "name": "PSGCT Coimbatore",
-        "nirf": "84",
-        "details": {
-          "fees": ": ₹ 35,000",
-          "salary": ": ₹ 8.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759722753phpRCKiIQ.jpeg",
-        "name": "New Delhi Institute of Management",
-        "nirf": "86",
-        "details": {
-          "fees": ": ₹ 13.75 Lakh",
-          "salary": ": ₹ 9.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1678358571phpTn2LQC.jpeg",
-        "name": "SoM, Pandit Deendayal Energy University (PDEU)",
-        "nirf": "89",
-        "details": {
-          "fees": ": ₹ 11.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1758877172phpOWg1kJ.jpeg",
-        "name": "Jagan Institute of Management Studies, Rohini",
-        "nirf": "90",
-        "details": {
-          "fees": ": ₹ 10.75 Lakh",
-          "salary": ": ₹ 9.80 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736930165phpZ4TD5k.jpeg",
-        "name": "Rajagiri Business School",
-        "nirf": "91",
-        "details": {
-          "fees": ": ₹ 7.50 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729700phpaRzdxZ.jpeg",
-        "name": "IMI Bhubaneswar",
-        "nirf": "94",
-        "details": {
-          "fees": ": ₹ 12.08 Lakh",
-          "salary": ": ₹ 12.48 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737967969phpe0YPZ7.jpeg",
-        "name": "Bharathidasan Institute of Management, Trichy (BIM, Trichy)",
-        "nirf": "96",
-        "details": {
-          "fees": ": ₹ 13.73 Lakh",
-          "salary": ": ₹ 10.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1687785782phpmmSmvn.jpeg",
-        "name": "Birla Institute of Technology, Mesra",
-        "nirf": "97",
-        "details": {
-          "fees": ": ₹ 6.04 Lakh",
-          "salary": ": ₹ 8.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726497299phpugB6Oz.jpeg",
-        "name": "IMT Nagpur - Institute of Management Technology",
-        "nirf": "99",
-        "details": {
-          "fees": ": ₹ 14.27 Lakh",
-          "salary": ": ₹ 10.81 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569562541phpv3Yvom.jpeg",
-        "name": "Amity University, Kolkata",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 9.78 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1586962878php20w0Ke.jpeg",
-        "name": "Amity University, Gurugram",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 9.04 Lakh",
-          "salary": ": ₹ 5.51 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1651837062phpaTKaev.jpeg",
-        "name": "Amity University, Patna",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 6.66 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.ws/public/images/instDefault_210x157.png",
-        "name": "Chandigarh Business School of Administration",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 1.20 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1746176400phpwfmUm0.jpeg",
-        "name": "GLA University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 4.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569477243php7w52lR.jpg",
-        "name": "Galgotias University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 3.08 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1739366390php5cbHz1.jpeg",
-        "name": "GITAM (Deemed to be University), Visakhapatnam",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 10.82 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570697333php5mUZtq.jpg",
-        "name": "Hindustan Institute of Technology and Science",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 3.02 Lakh",
-          "salary": ": ₹ 4.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1682401891phpJCM8Pg.jpeg",
-        "name": "IIHMR University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 12.50 Lakh",
-          "salary": ": ₹ 6.38 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1661336639phpCObMao.jpeg",
-        "name": "Jaipuria Indore - Jaipuria Institute of Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 12.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1757486864phpp3NS3K.jpeg",
-        "name": "LBSIM - Lal Bahadur Shastri Institute of Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 17.25 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1717151114phpB0O9Et.jpeg",
-        "name": "OPJU - OP Jindal University, Raigarh",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1742281679phps2nkAD.jpeg",
-        "name": "Presidency University, Bangalore",
-        "nirf": "101-125",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1326454976phpJ5GYcu.jpeg",
-        "name": "Sharda School of Business Studies",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 9.13 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1764919518phpykfJPu.jpeg",
-        "name": "Vignan's Foundation for Science, Technology and Research",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 4.00 Lakh",
-          "salary": ": ₹ 5.70 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1678306463php0noyme.jpeg",
-        "name": "Management Development Institute",
-        "nirf": "9",
-        "details": {
-          "fees": ": ₹ 26.00 Lakh",
-          "salary": ": ₹ 26.20 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1695279520php5Kn1e5.jpeg",
-        "name": "XLRI Xavier School of Management",
-        "nirf": "10",
-        "details": {
-          "fees": ": ₹ 30.60 Lakh",
-          "salary": ": ₹ 29.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635479535php6meTwr.jpeg",
-        "name": "Amrita Vishwa Vidyapeetham, Coimbatore",
-        "nirf": "26",
-        "details": {
-          "fees": ": ₹ 2.20 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637822596phpAMIVxa.jpeg",
-        "name": "IMT Ghaziabad - Institute of Management Technology",
-        "nirf": "30",
-        "details": {
-          "fees": ": ₹ 20.80 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1610694069phpYY6cff.jpeg",
-        "name": "Chandigarh University (CU)",
-        "nirf": "32",
-        "details": {
-          "fees": ": ₹ 6.78 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1664278744phpxSZA4i.jpeg",
-        "name": "MICA",
-        "nirf": "33",
-        "details": {
-          "fees": ": ₹ 28.00 Lakh",
-          "salary": ": ₹ 18.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1725957209php9GA3XN.jpeg",
-        "name": "UPES",
-        "nirf": "36",
-        "details": {
-          "fees": ": ₹ 17.33 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207241phpV7h7Hq.jpeg",
-        "name": "Great Lakes Institute of Management, Chennai",
-        "nirf": "37",
-        "details": {
-          "fees": ": ₹ 9.45 Lakh",
-          "salary": ": ₹ 14.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1638354824phpWDjI6H.jpeg",
-        "name": "T A Pai Management Institute, Manipal, MAHE",
-        "nirf": "39",
-        "details": {
-          "fees": ": ₹ 19.50 Lakh",
-          "salary": ": ₹ 13.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729744php91NZG2.jpeg",
-        "name": "IMI Delhi",
-        "nirf": "40",
-        "details": {
-          "fees": ": ₹ 20.64 Lakh",
-          "salary": ": ₹ 16.61 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1763970470phpIc4PeN.jpeg",
-        "name": "Jaipuria Noida - Jaipuria Institute of Management",
-        "nirf": "41",
-        "details": {
-          "fees": ": ₹ 15.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729728phpJlmD9C.jpeg",
-        "name": "IMI Kolkata",
-        "nirf": "42",
-        "details": {
-          "fees": ": ₹ 12.08 Lakh",
-          "salary": ": ₹ 12.49 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736830947phpD8rfpn.jpeg",
-        "name": "Goa Institute of Management",
-        "nirf": "43",
-        "details": {
-          "fees": ": ₹ 21.45 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1704968843phpDyxRO9.jpeg",
-        "name": "LPU - Lovely Professional University",
-        "nirf": "44",
-        "details": {
-          "fees": ": ₹ 8.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1602834487phpjP895g.jpg",
-        "name": "Xavier School of Rural Management, Xavier University Bhubaneswar",
-        "nirf": "45",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": ": ₹ 11.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "IFHE Hyderabad - ICFAI Foundation For Higher Education",
-        "nirf": "46",
-        "details": {
-          "fees": ": ₹ 1.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
-        "name": "Amity University, Noida",
-        "nirf": "49",
-        "details": {
-          "fees": ": ₹ 7.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726206268phpmd6WOl.jpeg",
-        "name": "Great Lakes Institute of Management, Gurgaon",
-        "nirf": "50",
-        "details": {
-          "fees": ": ₹ 7.75 Lakh",
-          "salary": ": ₹ 11.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1762424749phpXkb82f.jpeg",
-        "name": "Graphic Era Deemed to be University",
-        "nirf": "52",
-        "details": {
-          "fees": ": ₹ 7.17 Lakh",
-          "salary": ": ₹ 7.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1681127103php5tRAhH.jpeg",
-        "name": "Institute of Management, Nirma University",
-        "nirf": "53",
-        "details": {
-          "fees": ": ₹ 12.80 Lakh",
-          "salary": ": ₹ 10.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1765174477php8qqAOO.jpeg",
-        "name": "Tribhuvan Sahkari University",
-        "nirf": "54",
-        "details": {
-          "fees": ": ₹ 16.44 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637485936phpILRv55.jpeg",
-        "name": "Loyola Institute of Business Administration",
-        "nirf": "55",
-        "details": {
-          "fees": ": ₹ 14.47 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1749301265php1eFrQM.jpeg",
-        "name": "School of Public Health, SRM IST, Kanchipuram",
-        "nirf": "56",
-        "details": {
-          "fees": ": ₹ 4.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
-        "name": "Christ University",
-        "nirf": "57",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1764923013phpIACn5v.jpeg",
-        "name": "FORE School of Management",
-        "nirf": "59",
-        "details": {
-          "fees": ": ₹ 23.24 Lakh",
-          "salary": ": ₹ 15.20 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1669716806phpaKNtZE.jpeg",
-        "name": "Birla Institute of Management Technology",
-        "nirf": "61",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1428315842php31MAaD.jpg",
-        "name": "Saveetha Institute of Medical and Technical Sciences, Poonamallee",
-        "nirf": "63",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1739958464phpUHhn4U.jpeg",
-        "name": "SOA University - Siksha 'O' Anusandhan",
-        "nirf": "66",
-        "details": {
-          "fees": ": ₹ 7.40 Lakh",
-          "salary": ": ₹ 4.80 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1661339142phpLt5F71.jpeg",
-        "name": "Jaipuria Lucknow - Jaipuria Institute of Management",
-        "nirf": "67",
-        "details": {
-          "fees": ": ₹ 14.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1572333621phpd82oNW.jpg",
-        "name": "KIIT School of Management, Kalinga Institute of Industrial Technology",
-        "nirf": "68",
-        "details": {
-          "fees": ": ₹ 9.70 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1459838288phpDdWRn8.jpg",
-        "name": "KL Business School, KL University, Guntur",
-        "nirf": "70",
-        "details": {
-          "fees": ": ₹ 6.70 Lakh",
-          "salary": ": ₹ 5.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736748552phpxfMLIH.jpeg",
-        "name": "Alliance University, Bangalore",
-        "nirf": "71",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
-        "name": "Institute of Management Technology, Hyderabad",
-        "nirf": "72",
-        "details": {
-          "fees": ": ₹ 16.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1604990245php0CBicM.jpeg",
-        "name": "Jain Deemed-to-be University, Bangalore",
-        "nirf": "73",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1763970537phpXTAu3m.jpeg",
-        "name": "Jaipuria Jaipur - Jaipuria Institute of Management",
-        "nirf": "74",
-        "details": {
-          "fees": ": ₹ 13.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1678306463php0noyme.jpeg",
-        "name": "Management Development Institute",
-        "nirf": "9",
-        "details": {
-          "fees": ": ₹ 26.00 Lakh",
-          "salary": ": ₹ 26.20 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1695279520php5Kn1e5.jpeg",
-        "name": "XLRI Xavier School of Management",
-        "nirf": "10",
-        "details": {
-          "fees": ": ₹ 30.60 Lakh",
-          "salary": ": ₹ 29.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635479535php6meTwr.jpeg",
-        "name": "Amrita Vishwa Vidyapeetham, Coimbatore",
-        "nirf": "26",
-        "details": {
-          "fees": ": ₹ 2.20 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637822596phpAMIVxa.jpeg",
-        "name": "IMT Ghaziabad - Institute of Management Technology",
-        "nirf": "30",
-        "details": {
-          "fees": ": ₹ 20.80 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1610694069phpYY6cff.jpeg",
-        "name": "Chandigarh University (CU)",
-        "nirf": "32",
-        "details": {
-          "fees": ": ₹ 6.78 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1664278744phpxSZA4i.jpeg",
-        "name": "MICA",
-        "nirf": "33",
-        "details": {
-          "fees": ": ₹ 28.00 Lakh",
-          "salary": ": ₹ 18.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1725957209php9GA3XN.jpeg",
-        "name": "UPES",
-        "nirf": "36",
-        "details": {
-          "fees": ": ₹ 17.33 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207241phpV7h7Hq.jpeg",
-        "name": "Great Lakes Institute of Management, Chennai",
-        "nirf": "37",
-        "details": {
-          "fees": ": ₹ 9.45 Lakh",
-          "salary": ": ₹ 14.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1638354824phpWDjI6H.jpeg",
-        "name": "T A Pai Management Institute, Manipal, MAHE",
-        "nirf": "39",
-        "details": {
-          "fees": ": ₹ 19.50 Lakh",
-          "salary": ": ₹ 13.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729744php91NZG2.jpeg",
-        "name": "IMI Delhi",
-        "nirf": "40",
-        "details": {
-          "fees": ": ₹ 20.64 Lakh",
-          "salary": ": ₹ 16.61 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1763970470phpIc4PeN.jpeg",
-        "name": "Jaipuria Noida - Jaipuria Institute of Management",
-        "nirf": "41",
-        "details": {
-          "fees": ": ₹ 15.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729728phpJlmD9C.jpeg",
-        "name": "IMI Kolkata",
-        "nirf": "42",
-        "details": {
-          "fees": ": ₹ 12.08 Lakh",
-          "salary": ": ₹ 12.49 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736830947phpD8rfpn.jpeg",
-        "name": "Goa Institute of Management",
-        "nirf": "43",
-        "details": {
-          "fees": ": ₹ 21.45 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1704968843phpDyxRO9.jpeg",
-        "name": "LPU - Lovely Professional University",
-        "nirf": "44",
-        "details": {
-          "fees": ": ₹ 8.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1602834487phpjP895g.jpg",
-        "name": "Xavier School of Rural Management, Xavier University Bhubaneswar",
-        "nirf": "45",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": ": ₹ 11.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "IFHE Hyderabad - ICFAI Foundation For Higher Education",
-        "nirf": "46",
-        "details": {
-          "fees": ": ₹ 1.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1631773195phpcZt5ey.jpeg",
-        "name": "Amity University, Noida",
-        "nirf": "49",
-        "details": {
-          "fees": ": ₹ 7.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726206268phpmd6WOl.jpeg",
-        "name": "Great Lakes Institute of Management, Gurgaon",
-        "nirf": "50",
-        "details": {
-          "fees": ": ₹ 7.75 Lakh",
-          "salary": ": ₹ 11.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1762424749phpXkb82f.jpeg",
-        "name": "Graphic Era Deemed to be University",
-        "nirf": "52",
-        "details": {
-          "fees": ": ₹ 7.17 Lakh",
-          "salary": ": ₹ 7.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1681127103php5tRAhH.jpeg",
-        "name": "Institute of Management, Nirma University",
-        "nirf": "53",
-        "details": {
-          "fees": ": ₹ 12.80 Lakh",
-          "salary": ": ₹ 10.50 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1765174477php8qqAOO.jpeg",
-        "name": "Tribhuvan Sahkari University",
-        "nirf": "54",
-        "details": {
-          "fees": ": ₹ 16.44 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637485936phpILRv55.jpeg",
-        "name": "Loyola Institute of Business Administration",
-        "nirf": "55",
-        "details": {
-          "fees": ": ₹ 14.47 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1749301265php1eFrQM.jpeg",
-        "name": "School of Public Health, SRM IST, Kanchipuram",
-        "nirf": "56",
-        "details": {
-          "fees": ": ₹ 4.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
-        "name": "Christ University",
-        "nirf": "57",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1764923013phpIACn5v.jpeg",
-        "name": "FORE School of Management",
-        "nirf": "59",
-        "details": {
-          "fees": ": ₹ 23.24 Lakh",
-          "salary": ": ₹ 15.20 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1669716806phpaKNtZE.jpeg",
-        "name": "Birla Institute of Management Technology",
-        "nirf": "61",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1428315842php31MAaD.jpg",
-        "name": "Saveetha Institute of Medical and Technical Sciences, Poonamallee",
-        "nirf": "63",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1739958464phpUHhn4U.jpeg",
-        "name": "SOA University - Siksha 'O' Anusandhan",
-        "nirf": "66",
-        "details": {
-          "fees": ": ₹ 7.40 Lakh",
-          "salary": ": ₹ 4.80 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1661339142phpLt5F71.jpeg",
-        "name": "Jaipuria Lucknow - Jaipuria Institute of Management",
-        "nirf": "67",
-        "details": {
-          "fees": ": ₹ 14.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1572333621phpd82oNW.jpg",
-        "name": "KIIT School of Management, Kalinga Institute of Industrial Technology",
-        "nirf": "68",
-        "details": {
-          "fees": ": ₹ 9.70 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1459838288phpDdWRn8.jpg",
-        "name": "KL Business School, KL University, Guntur",
-        "nirf": "70",
-        "details": {
-          "fees": ": ₹ 6.70 Lakh",
-          "salary": ": ₹ 5.00 Lakh",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736748552phpxfMLIH.jpeg",
-        "name": "Alliance University, Bangalore",
-        "nirf": "71",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
-        "name": "Institute of Management Technology, Hyderabad",
-        "nirf": "72",
-        "details": {
-          "fees": ": ₹ 16.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1604990245php0CBicM.jpeg",
-        "name": "Jain Deemed-to-be University, Bangalore",
-        "nirf": "73",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1763970537phpXTAu3m.jpeg",
-        "name": "Jaipuria Jaipur - Jaipuria Institute of Management",
-        "nirf": "74",
-        "details": {
-          "fees": ": ₹ 13.75 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "",
-            "outlook": "25"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Bangalore",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569304658php7k1hKB.jpeg",
-        "name": "1. IIM Bangalore - Indian Institute of Management",
-        "nirf": "2",
-        "details": {
-          "fees": ": ₹ 26.00 Lakh",
-          "salary": ": ₹ 32.61 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
-        "name": "2. Christ University",
-        "nirf": "57",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736748552phpxfMLIH.jpeg",
-        "name": "3. Alliance University, Bangalore",
-        "nirf": "71",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1604990245php0CBicM.jpeg",
-        "name": "4. Jain Deemed-to-be University, Bangalore",
-        "nirf": "73",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1742281679phps2nkAD.jpeg",
-        "name": "5. Presidency University, Bangalore",
-        "nirf": "101-125",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569304658php7k1hKB.jpeg",
-        "name": "1. IIM Bangalore - Indian Institute of Management",
-        "nirf": "2",
-        "details": {
-          "fees": ": ₹ 26.00 Lakh",
-          "salary": ": ₹ 32.61 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
-        "name": "2. Christ University",
-        "nirf": "57",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736748552phpxfMLIH.jpeg",
-        "name": "3. Alliance University, Bangalore",
-        "nirf": "71",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1604990245php0CBicM.jpeg",
-        "name": "4. Jain Deemed-to-be University, Bangalore",
-        "nirf": "73",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1742281679phps2nkAD.jpeg",
-        "name": "5. Presidency University, Bangalore",
-        "nirf": "101-125",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569304658php7k1hKB.jpeg",
-        "name": "1. IIM Bangalore - Indian Institute of Management",
-        "nirf": "2",
-        "details": {
-          "fees": ": ₹ 26.00 Lakh",
-          "salary": ": ₹ 32.61 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
-        "name": "2. Christ University",
-        "nirf": "57",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736748552phpxfMLIH.jpeg",
-        "name": "3. Alliance University, Bangalore",
-        "nirf": "71",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1604990245php0CBicM.jpeg",
-        "name": "4. Jain Deemed-to-be University, Bangalore",
-        "nirf": "73",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1742281679phps2nkAD.jpeg",
-        "name": "5. Presidency University, Bangalore",
-        "nirf": "101-125",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569304658php7k1hKB.jpeg",
-        "name": "1. IIM Bangalore - Indian Institute of Management",
-        "nirf": "2",
-        "details": {
-          "fees": ": ₹ 26.00 Lakh",
-          "salary": ": ₹ 32.61 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
-        "name": "2. Christ University",
-        "nirf": "57",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736748552phpxfMLIH.jpeg",
-        "name": "3. Alliance University, Bangalore",
-        "nirf": "71",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1604990245php0CBicM.jpeg",
-        "name": "4. Jain Deemed-to-be University, Bangalore",
-        "nirf": "73",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1742281679phps2nkAD.jpeg",
-        "name": "5. Presidency University, Bangalore",
-        "nirf": "101-125",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Mumbai",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
-        "name": "1. Indian Institute of Management Mumbai",
-        "nirf": "6",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
-        "name": "2. Shailesh J. Mehta School of Management, IIT Bombay",
-        "nirf": "14",
-        "details": {
-          "fees": ": ₹ 14.95 Lakh",
-          "salary": ": ₹ 25.25 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "3. S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "4. Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "5. K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "6. Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
-        "name": "1. Indian Institute of Management Mumbai",
-        "nirf": "6",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
-        "name": "2. Shailesh J. Mehta School of Management, IIT Bombay",
-        "nirf": "14",
-        "details": {
-          "fees": ": ₹ 14.95 Lakh",
-          "salary": ": ₹ 25.25 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "3. S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "4. Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "5. K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "6. Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
-        "name": "1. Indian Institute of Management Mumbai",
-        "nirf": "6",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
-        "name": "2. Shailesh J. Mehta School of Management, IIT Bombay",
-        "nirf": "14",
-        "details": {
-          "fees": ": ₹ 14.95 Lakh",
-          "salary": ": ₹ 25.25 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "3. S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "4. Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "5. K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "6. Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
-        "name": "1. Indian Institute of Management Mumbai",
-        "nirf": "6",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
-        "name": "2. Shailesh J. Mehta School of Management, IIT Bombay",
-        "nirf": "14",
-        "details": {
-          "fees": ": ₹ 14.95 Lakh",
-          "salary": ": ₹ 25.25 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "3. S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "4. Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "5. K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "6. Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Pune",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "1. Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "2. Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
-        "name": "3. National Institute of Bank Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 14.52 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "4. Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "5. Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "1. Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "2. Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
-        "name": "3. National Institute of Bank Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 14.52 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "4. Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "5. Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "1. Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "2. Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
-        "name": "3. National Institute of Bank Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 14.52 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "4. Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "5. Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "1. Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "2. Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
-        "name": "3. National Institute of Bank Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 14.52 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "4. Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "5. Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Hydrabaad",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "1. IFHE Hyderabad - ICFAI Foundation For Higher Education",
-        "nirf": "46",
-        "details": {
-          "fees": ": ₹ 1.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
-        "name": "2. Institute of Management Technology, Hyderabad",
-        "nirf": "72",
-        "details": {
-          "fees": ": ₹ 16.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1646367733php2FlG5a.jpeg",
-        "name": "3. National Institute of Agricultural Extension Management (MANAGE)",
-        "nirf": "95",
-        "details": {
-          "fees": ": ₹ 8.50 Lakh",
-          "salary": ": ₹ 11.60 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1388129178phpBc8huY.gif",
-        "name": "4. National Academy of Agricultural Research Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 7.45 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570180875phplaqBmm.jpg",
-        "name": "5. UoH - University of Hyderabad",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 2.16 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "1. IFHE Hyderabad - ICFAI Foundation For Higher Education",
-        "nirf": "46",
-        "details": {
-          "fees": ": ₹ 1.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
-        "name": "2. Institute of Management Technology, Hyderabad",
-        "nirf": "72",
-        "details": {
-          "fees": ": ₹ 16.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1646367733php2FlG5a.jpeg",
-        "name": "3. National Institute of Agricultural Extension Management (MANAGE)",
-        "nirf": "95",
-        "details": {
-          "fees": ": ₹ 8.50 Lakh",
-          "salary": ": ₹ 11.60 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1388129178phpBc8huY.gif",
-        "name": "4. National Academy of Agricultural Research Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 7.45 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570180875phplaqBmm.jpg",
-        "name": "5. UoH - University of Hyderabad",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 2.16 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "1. IFHE Hyderabad - ICFAI Foundation For Higher Education",
-        "nirf": "46",
-        "details": {
-          "fees": ": ₹ 1.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
-        "name": "2. Institute of Management Technology, Hyderabad",
-        "nirf": "72",
-        "details": {
-          "fees": ": ₹ 16.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1646367733php2FlG5a.jpeg",
-        "name": "3. National Institute of Agricultural Extension Management (MANAGE)",
-        "nirf": "95",
-        "details": {
-          "fees": ": ₹ 8.50 Lakh",
-          "salary": ": ₹ 11.60 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1388129178phpBc8huY.gif",
-        "name": "4. National Academy of Agricultural Research Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 7.45 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570180875phplaqBmm.jpg",
-        "name": "5. UoH - University of Hyderabad",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 2.16 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "1. IFHE Hyderabad - ICFAI Foundation For Higher Education",
-        "nirf": "46",
-        "details": {
-          "fees": ": ₹ 1.80 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
-        "name": "2. Institute of Management Technology, Hyderabad",
-        "nirf": "72",
-        "details": {
-          "fees": ": ₹ 16.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1646367733php2FlG5a.jpeg",
-        "name": "3. National Institute of Agricultural Extension Management (MANAGE)",
-        "nirf": "95",
-        "details": {
-          "fees": ": ₹ 8.50 Lakh",
-          "salary": ": ₹ 11.60 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1388129178phpBc8huY.gif",
-        "name": "4. National Academy of Agricultural Research Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 7.45 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570180875phplaqBmm.jpg",
-        "name": "5. UoH - University of Hyderabad",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 2.16 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Delhi",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1573455834phpeS8G7X.jpeg",
-        "name": "1. Department of Management Studies, IIT Delhi",
-        "nirf": "4",
-        "details": {
-          "fees": ": ₹ 12.00 Lakh",
-          "salary": ": ₹ 15.59 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569564397phpS7Y5kG.jpg",
-        "name": "2. Indian Institute of Foreign Trade, Delhi",
-        "nirf": "17",
-        "details": {
-          "fees": ": ₹ 21.82 Lakh",
-          "salary": ": ₹ 26.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1638347515phpcd2cDM.jpeg",
-        "name": "3. Jamia Millia Islamia",
-        "nirf": "28",
-        "details": {
-          "fees": ": ₹ 53,150",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729744php91NZG2.jpeg",
-        "name": "4. IMI Delhi",
-        "nirf": "40",
-        "details": {
-          "fees": ": ₹ 20.64 Lakh",
-          "salary": ": ₹ 16.61 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1764923013phpIACn5v.jpeg",
-        "name": "5. FORE School of Management",
-        "nirf": "59",
-        "details": {
-          "fees": ": ₹ 23.24 Lakh",
-          "salary": ": ₹ 15.20 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569302305phpg8lyZi.jpg",
-        "name": "6. Guru Gobind Singh Indraprastha University",
-        "nirf": "76",
-        "details": {
-          "fees": ": ₹ 3.70 Lakh",
-          "salary": ": ₹ 6.18 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759722753phpRCKiIQ.jpeg",
-        "name": "7. New Delhi Institute of Management",
-        "nirf": "86",
-        "details": {
-          "fees": ": ₹ 13.75 Lakh",
-          "salary": ": ₹ 9.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570094621phptvGtLV.jpeg",
-        "name": "8. Jamia Hamdard",
-        "nirf": "87",
-        "details": {
-          "fees": ": ₹ 5.20 Lakh",
-          "salary": ": ₹ 5.52 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1758877172phpOWg1kJ.jpeg",
-        "name": "9. Jagan Institute of Management Studies, Rohini",
-        "nirf": "90",
-        "details": {
-          "fees": ": ₹ 10.75 Lakh",
-          "salary": ": ₹ 9.80 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1757486864phpp3NS3K.jpeg",
-        "name": "10. LBSIM - Lal Bahadur Shastri Institute of Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 17.25 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1573455834phpeS8G7X.jpeg",
-        "name": "1. Department of Management Studies, IIT Delhi",
-        "nirf": "4",
-        "details": {
-          "fees": ": ₹ 12.00 Lakh",
-          "salary": ": ₹ 15.59 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569564397phpS7Y5kG.jpg",
-        "name": "2. Indian Institute of Foreign Trade, Delhi",
-        "nirf": "17",
-        "details": {
-          "fees": ": ₹ 21.82 Lakh",
-          "salary": ": ₹ 26.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1638347515phpcd2cDM.jpeg",
-        "name": "3. Jamia Millia Islamia",
-        "nirf": "28",
-        "details": {
-          "fees": ": ₹ 53,150",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729744php91NZG2.jpeg",
-        "name": "4. IMI Delhi",
-        "nirf": "40",
-        "details": {
-          "fees": ": ₹ 20.64 Lakh",
-          "salary": ": ₹ 16.61 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1764923013phpIACn5v.jpeg",
-        "name": "5. FORE School of Management",
-        "nirf": "59",
-        "details": {
-          "fees": ": ₹ 23.24 Lakh",
-          "salary": ": ₹ 15.20 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569302305phpg8lyZi.jpg",
-        "name": "6. Guru Gobind Singh Indraprastha University",
-        "nirf": "76",
-        "details": {
-          "fees": ": ₹ 3.70 Lakh",
-          "salary": ": ₹ 6.18 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759722753phpRCKiIQ.jpeg",
-        "name": "7. New Delhi Institute of Management",
-        "nirf": "86",
-        "details": {
-          "fees": ": ₹ 13.75 Lakh",
-          "salary": ": ₹ 9.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570094621phptvGtLV.jpeg",
-        "name": "8. Jamia Hamdard",
-        "nirf": "87",
-        "details": {
-          "fees": ": ₹ 5.20 Lakh",
-          "salary": ": ₹ 5.52 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1758877172phpOWg1kJ.jpeg",
-        "name": "9. Jagan Institute of Management Studies, Rohini",
-        "nirf": "90",
-        "details": {
-          "fees": ": ₹ 10.75 Lakh",
-          "salary": ": ₹ 9.80 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1757486864phpp3NS3K.jpeg",
-        "name": "10. LBSIM - Lal Bahadur Shastri Institute of Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 17.25 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1573455834phpeS8G7X.jpeg",
-        "name": "1. Department of Management Studies, IIT Delhi",
-        "nirf": "4",
-        "details": {
-          "fees": ": ₹ 12.00 Lakh",
-          "salary": ": ₹ 15.59 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569564397phpS7Y5kG.jpg",
-        "name": "2. Indian Institute of Foreign Trade, Delhi",
-        "nirf": "17",
-        "details": {
-          "fees": ": ₹ 21.82 Lakh",
-          "salary": ": ₹ 26.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1638347515phpcd2cDM.jpeg",
-        "name": "3. Jamia Millia Islamia",
-        "nirf": "28",
-        "details": {
-          "fees": ": ₹ 53,150",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729744php91NZG2.jpeg",
-        "name": "4. IMI Delhi",
-        "nirf": "40",
-        "details": {
-          "fees": ": ₹ 20.64 Lakh",
-          "salary": ": ₹ 16.61 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1764923013phpIACn5v.jpeg",
-        "name": "5. FORE School of Management",
-        "nirf": "59",
-        "details": {
-          "fees": ": ₹ 23.24 Lakh",
-          "salary": ": ₹ 15.20 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569302305phpg8lyZi.jpg",
-        "name": "6. Guru Gobind Singh Indraprastha University",
-        "nirf": "76",
-        "details": {
-          "fees": ": ₹ 3.70 Lakh",
-          "salary": ": ₹ 6.18 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759722753phpRCKiIQ.jpeg",
-        "name": "7. New Delhi Institute of Management",
-        "nirf": "86",
-        "details": {
-          "fees": ": ₹ 13.75 Lakh",
-          "salary": ": ₹ 9.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570094621phptvGtLV.jpeg",
-        "name": "8. Jamia Hamdard",
-        "nirf": "87",
-        "details": {
-          "fees": ": ₹ 5.20 Lakh",
-          "salary": ": ₹ 5.52 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1758877172phpOWg1kJ.jpeg",
-        "name": "9. Jagan Institute of Management Studies, Rohini",
-        "nirf": "90",
-        "details": {
-          "fees": ": ₹ 10.75 Lakh",
-          "salary": ": ₹ 9.80 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1757486864phpp3NS3K.jpeg",
-        "name": "10. LBSIM - Lal Bahadur Shastri Institute of Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 17.25 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1573455834phpeS8G7X.jpeg",
-        "name": "1. Department of Management Studies, IIT Delhi",
-        "nirf": "4",
-        "details": {
-          "fees": ": ₹ 12.00 Lakh",
-          "salary": ": ₹ 15.59 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569564397phpS7Y5kG.jpg",
-        "name": "2. Indian Institute of Foreign Trade, Delhi",
-        "nirf": "17",
-        "details": {
-          "fees": ": ₹ 21.82 Lakh",
-          "salary": ": ₹ 26.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1638347515phpcd2cDM.jpeg",
-        "name": "3. Jamia Millia Islamia",
-        "nirf": "28",
-        "details": {
-          "fees": ": ₹ 53,150",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729744php91NZG2.jpeg",
-        "name": "4. IMI Delhi",
-        "nirf": "40",
-        "details": {
-          "fees": ": ₹ 20.64 Lakh",
-          "salary": ": ₹ 16.61 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1764923013phpIACn5v.jpeg",
-        "name": "5. FORE School of Management",
-        "nirf": "59",
-        "details": {
-          "fees": ": ₹ 23.24 Lakh",
-          "salary": ": ₹ 15.20 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569302305phpg8lyZi.jpg",
-        "name": "6. Guru Gobind Singh Indraprastha University",
-        "nirf": "76",
-        "details": {
-          "fees": ": ₹ 3.70 Lakh",
-          "salary": ": ₹ 6.18 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759722753phpRCKiIQ.jpeg",
-        "name": "7. New Delhi Institute of Management",
-        "nirf": "86",
-        "details": {
-          "fees": ": ₹ 13.75 Lakh",
-          "salary": ": ₹ 9.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570094621phptvGtLV.jpeg",
-        "name": "8. Jamia Hamdard",
-        "nirf": "87",
-        "details": {
-          "fees": ": ₹ 5.20 Lakh",
-          "salary": ": ₹ 5.52 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1758877172phpOWg1kJ.jpeg",
-        "name": "9. Jagan Institute of Management Studies, Rohini",
-        "nirf": "90",
-        "details": {
-          "fees": ": ₹ 10.75 Lakh",
-          "salary": ": ₹ 9.80 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1757486864phpp3NS3K.jpeg",
-        "name": "10. LBSIM - Lal Bahadur Shastri Institute of Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 17.25 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Chennai",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1563530538phphP5v3h.jpg",
-        "name": "1. DoMS IIT Madras - Department of Management Studies",
-        "nirf": "13",
-        "details": {
-          "fees": ": ₹ 10.00 Lakh",
-          "salary": ": ₹ 18.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207241phpV7h7Hq.jpeg",
-        "name": "2. Great Lakes Institute of Management, Chennai",
-        "nirf": "37",
-        "details": {
-          "fees": ": ₹ 11.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637485936phpILRv55.jpeg",
-        "name": "3. Loyola Institute of Business Administration",
-        "nirf": "55",
-        "details": {
-          "fees": ": ₹ 14.47 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1694688219phpT8Q5U2.jpeg",
-        "name": "4. SRM Medical College Hospital and Research Centre, SRM IST, Kattankulathur",
-        "nirf": "56",
-        "details": {
-          "fees": ": ₹ 3.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1428315842php31MAaD.jpg",
-        "name": "5. Saveetha Institute of Medical and Technical Sciences, Poonamallee",
-        "nirf": "63",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1571724654phpr3XbQF.jpg",
-        "name": "6. College of Engineering, Anna University",
-        "nirf": "88",
-        "details": {
-          "fees": ": ₹ 60,000",
-          "salary": ": ₹ 8.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570697333php5mUZtq.jpg",
-        "name": "7. Hindustan Institute of Technology and Science",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 3.02 Lakh",
-          "salary": ": ₹ 4.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1563530538phphP5v3h.jpg",
-        "name": "1. DoMS IIT Madras - Department of Management Studies",
-        "nirf": "13",
-        "details": {
-          "fees": ": ₹ 10.00 Lakh",
-          "salary": ": ₹ 18.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207241phpV7h7Hq.jpeg",
-        "name": "2. Great Lakes Institute of Management, Chennai",
-        "nirf": "37",
-        "details": {
-          "fees": ": ₹ 11.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637485936phpILRv55.jpeg",
-        "name": "3. Loyola Institute of Business Administration",
-        "nirf": "55",
-        "details": {
-          "fees": ": ₹ 14.47 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1694688219phpT8Q5U2.jpeg",
-        "name": "4. SRM Medical College Hospital and Research Centre, SRM IST, Kattankulathur",
-        "nirf": "56",
-        "details": {
-          "fees": ": ₹ 3.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1428315842php31MAaD.jpg",
-        "name": "5. Saveetha Institute of Medical and Technical Sciences, Poonamallee",
-        "nirf": "63",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1571724654phpr3XbQF.jpg",
-        "name": "6. College of Engineering, Anna University",
-        "nirf": "88",
-        "details": {
-          "fees": ": ₹ 60,000",
-          "salary": ": ₹ 8.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570697333php5mUZtq.jpg",
-        "name": "7. Hindustan Institute of Technology and Science",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 3.02 Lakh",
-          "salary": ": ₹ 4.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1563530538phphP5v3h.jpg",
-        "name": "1. DoMS IIT Madras - Department of Management Studies",
-        "nirf": "13",
-        "details": {
-          "fees": ": ₹ 10.00 Lakh",
-          "salary": ": ₹ 18.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207241phpV7h7Hq.jpeg",
-        "name": "2. Great Lakes Institute of Management, Chennai",
-        "nirf": "37",
-        "details": {
-          "fees": ": ₹ 11.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637485936phpILRv55.jpeg",
-        "name": "3. Loyola Institute of Business Administration",
-        "nirf": "55",
-        "details": {
-          "fees": ": ₹ 14.47 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1694688219phpT8Q5U2.jpeg",
-        "name": "4. SRM Medical College Hospital and Research Centre, SRM IST, Kattankulathur",
-        "nirf": "56",
-        "details": {
-          "fees": ": ₹ 3.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1428315842php31MAaD.jpg",
-        "name": "5. Saveetha Institute of Medical and Technical Sciences, Poonamallee",
-        "nirf": "63",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1571724654phpr3XbQF.jpg",
-        "name": "6. College of Engineering, Anna University",
-        "nirf": "88",
-        "details": {
-          "fees": ": ₹ 60,000",
-          "salary": ": ₹ 8.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570697333php5mUZtq.jpg",
-        "name": "7. Hindustan Institute of Technology and Science",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 3.02 Lakh",
-          "salary": ": ₹ 4.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1563530538phphP5v3h.jpg",
-        "name": "1. DoMS IIT Madras - Department of Management Studies",
-        "nirf": "13",
-        "details": {
-          "fees": ": ₹ 10.00 Lakh",
-          "salary": ": ₹ 18.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207241phpV7h7Hq.jpeg",
-        "name": "2. Great Lakes Institute of Management, Chennai",
-        "nirf": "37",
-        "details": {
-          "fees": ": ₹ 11.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1637485936phpILRv55.jpeg",
-        "name": "3. Loyola Institute of Business Administration",
-        "nirf": "55",
-        "details": {
-          "fees": ": ₹ 14.47 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1694688219phpT8Q5U2.jpeg",
-        "name": "4. SRM Medical College Hospital and Research Centre, SRM IST, Kattankulathur",
-        "nirf": "56",
-        "details": {
-          "fees": ": ₹ 3.50 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1428315842php31MAaD.jpg",
-        "name": "5. Saveetha Institute of Medical and Technical Sciences, Poonamallee",
-        "nirf": "63",
-        "details": {
-          "fees": "",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1571724654phpr3XbQF.jpg",
-        "name": "6. College of Engineering, Anna University",
-        "nirf": "88",
-        "details": {
-          "fees": ": ₹ 60,000",
-          "salary": ": ₹ 8.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570697333php5mUZtq.jpg",
-        "name": "7. Hindustan Institute of Technology and Science",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 3.02 Lakh",
-          "salary": ": ₹ 4.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Maharastra",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
-        "name": "1. Indian Institute of Management Mumbai",
-        "nirf": "6",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "2. Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
-        "name": "3. Shailesh J. Mehta School of Management, IIT Bombay",
-        "nirf": "14",
-        "details": {
-          "fees": ": ₹ 14.95 Lakh",
-          "salary": ": ₹ 25.25 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "4. S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "5. Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207440php9qChiQ.jpeg",
-        "name": "6. IIM Nagpur - Indian Institute of Management",
-        "nirf": "25",
-        "details": {
-          "fees": ": ₹ 19.70 Lakh",
-          "salary": ": ₹ 17.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "7. K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "8. Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726497299phpugB6Oz.jpeg",
-        "name": "9. IMT Nagpur - Institute of Management Technology",
-        "nirf": "99",
-        "details": {
-          "fees": ": ₹ 14.27 Lakh",
-          "salary": ": ₹ 10.81 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "10. Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
-        "name": "11. National Institute of Bank Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 14.52 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "12. Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "13. Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
-        "name": "1. Indian Institute of Management Mumbai",
-        "nirf": "6",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "2. Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
-        "name": "3. Shailesh J. Mehta School of Management, IIT Bombay",
-        "nirf": "14",
-        "details": {
-          "fees": ": ₹ 14.95 Lakh",
-          "salary": ": ₹ 25.25 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "4. S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "5. Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207440php9qChiQ.jpeg",
-        "name": "6. IIM Nagpur - Indian Institute of Management",
-        "nirf": "25",
-        "details": {
-          "fees": ": ₹ 19.70 Lakh",
-          "salary": ": ₹ 17.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "7. K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "8. Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726497299phpugB6Oz.jpeg",
-        "name": "9. IMT Nagpur - Institute of Management Technology",
-        "nirf": "99",
-        "details": {
-          "fees": ": ₹ 14.27 Lakh",
-          "salary": ": ₹ 10.81 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "10. Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
-        "name": "11. National Institute of Bank Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 14.52 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "12. Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "13. Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
-        "name": "1. Indian Institute of Management Mumbai",
-        "nirf": "6",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "2. Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
-        "name": "3. Shailesh J. Mehta School of Management, IIT Bombay",
-        "nirf": "14",
-        "details": {
-          "fees": ": ₹ 14.95 Lakh",
-          "salary": ": ₹ 25.25 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "4. S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "5. Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207440php9qChiQ.jpeg",
-        "name": "6. IIM Nagpur - Indian Institute of Management",
-        "nirf": "25",
-        "details": {
-          "fees": ": ₹ 19.70 Lakh",
-          "salary": ": ₹ 17.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "7. K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "8. Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726497299phpugB6Oz.jpeg",
-        "name": "9. IMT Nagpur - Institute of Management Technology",
-        "nirf": "99",
-        "details": {
-          "fees": ": ₹ 14.27 Lakh",
-          "salary": ": ₹ 10.81 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "10. Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
-        "name": "11. National Institute of Bank Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 14.52 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "12. Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "13. Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1703660507phppj6Tjl.jpeg",
-        "name": "1. Indian Institute of Management Mumbai",
-        "nirf": "6",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1753685487phpQbTUeH.jpeg",
-        "name": "2. Symbiosis Institute of Business Management, Symbiosis International, Pune",
-        "nirf": "11",
-        "details": {
-          "fees": ": ₹ 24.90 Lakh",
-          "salary": ": ₹ 26.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1635227258phpnhGZXn.jpeg",
-        "name": "3. Shailesh J. Mehta School of Management, IIT Bombay",
-        "nirf": "14",
-        "details": {
-          "fees": ": ₹ 14.95 Lakh",
-          "salary": ": ₹ 25.25 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1755582170php0cGibp.jpeg",
-        "name": "4. S.P. Jain Institute of Management and Research, Mumbai",
-        "nirf": "20",
-        "details": {
-          "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1670529345phpkUUTNU.jpeg",
-        "name": "5. Pravin Dalal School of Entrepreneurship and Family Business Management, NMIMS, Mumbai",
-        "nirf": "24",
-        "details": {
-          "fees": ": ₹ 3.27 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726207440php9qChiQ.jpeg",
-        "name": "6. IIM Nagpur - Indian Institute of Management",
-        "nirf": "25",
-        "details": {
-          "fees": ": ₹ 19.70 Lakh",
-          "salary": ": ₹ 17.04 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1744283887php87Erog.jpeg",
-        "name": "7. K J Somaiya Institute of Management",
-        "nirf": "65",
-        "details": {
-          "fees": ": ₹ 21.34 Lakh",
-          "salary": ": ₹ 12.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736498498phpyANH8C.jpeg",
-        "name": "8. Prin. L. N. Welingkar Institute of Management Development and Research, Mumbai",
-        "nirf": "75",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1726497299phpugB6Oz.jpeg",
-        "name": "9. IMT Nagpur - Institute of Management Technology",
-        "nirf": "99",
-        "details": {
-          "fees": ": ₹ 14.27 Lakh",
-          "salary": ": ₹ 10.81 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1615879275phpc8YAih.jpeg",
-        "name": "10. Institute of Management and Entrepreneurship Development, Bharati Vidyapeeth",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 5.91 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1671524244phpb7K2MB.jpeg",
-        "name": "11. National Institute of Bank Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 14.52 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1728986725php1KH4sS.jpeg",
-        "name": "12. Pune Institute of Business Management",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 8.95 Lakh",
-          "salary": ": ₹ 8.15 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1737111090phpDN8YqJ.jpeg",
-        "name": "13. Balaji Institute of Modern Management, Sri Balaji University",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 11.90 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Kolkata",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1633323505php886f45.jpeg",
-        "name": "1. IIM Calcutta - Indian Institute of Management",
-        "nirf": "7",
-        "details": {
-          "fees": ": ₹ 25.00 Lakh",
-          "salary": ": ₹ 31.05 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729728phpJlmD9C.jpeg",
-        "name": "2. IMI Kolkata",
-        "nirf": "42",
-        "details": {
-          "fees": ": ₹ 12.08 Lakh",
-          "salary": ": ₹ 12.49 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569562541phpv3Yvom.jpeg",
-        "name": "3. Amity University, Kolkata",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 9.78 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1633323505php886f45.jpeg",
-        "name": "1. IIM Calcutta - Indian Institute of Management",
-        "nirf": "7",
-        "details": {
-          "fees": ": ₹ 25.00 Lakh",
-          "salary": ": ₹ 31.05 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729728phpJlmD9C.jpeg",
-        "name": "2. IMI Kolkata",
-        "nirf": "42",
-        "details": {
-          "fees": ": ₹ 12.08 Lakh",
-          "salary": ": ₹ 12.49 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569562541phpv3Yvom.jpeg",
-        "name": "3. Amity University, Kolkata",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 9.78 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1633323505php886f45.jpeg",
-        "name": "1. IIM Calcutta - Indian Institute of Management",
-        "nirf": "7",
-        "details": {
-          "fees": ": ₹ 25.00 Lakh",
-          "salary": ": ₹ 31.05 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729728phpJlmD9C.jpeg",
-        "name": "2. IMI Kolkata",
-        "nirf": "42",
-        "details": {
-          "fees": ": ₹ 12.08 Lakh",
-          "salary": ": ₹ 12.49 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569562541phpv3Yvom.jpeg",
-        "name": "3. Amity University, Kolkata",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 9.78 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1633323505php886f45.jpeg",
-        "name": "1. IIM Calcutta - Indian Institute of Management",
-        "nirf": "7",
-        "details": {
-          "fees": ": ₹ 25.00 Lakh",
-          "salary": ": ₹ 31.05 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1759729728phpJlmD9C.jpeg",
-        "name": "2. IMI Kolkata",
-        "nirf": "42",
-        "details": {
-          "fees": ": ₹ 12.08 Lakh",
-          "salary": ": ₹ 12.49 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1569562541phpv3Yvom.jpeg",
-        "name": "3. Amity University, Kolkata",
-        "nirf": "101-125",
-        "details": {
-          "fees": ": ₹ 9.78 Lakh",
-          "salary": "",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      }
-    ]
-  },
-  {
-    "category": "Top MBA Colleges in Kerla",
-    "colleges": [
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570797818php4BEE8h.jpg",
-        "name": "1. IIM Kozhikode - Indian Institute of Management",
-        "nirf": "3",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": ": ₹ 27.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1571295613phpdzmJh4.jpeg",
-        "name": "2. Cochin University of Science and Technology, Kochi",
-        "nirf": "82",
-        "details": {
-          "fees": ": ₹ 67,040",
-          "salary": ": ₹ 7.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570094474php6AZ4Dh.jpeg",
-        "name": "3. NIT Calicut - National Institute of Technology",
-        "nirf": "85",
-        "details": {
-          "fees": ": ₹ 3.00 Lakh",
-          "salary": ": ₹ 5.70 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736930165phpZ4TD5k.jpeg",
-        "name": "4. Rajagiri Business School",
-        "nirf": "91",
-        "details": {
-          "fees": ": ₹ 7.50 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570797818php4BEE8h.jpg",
-        "name": "1. IIM Kozhikode - Indian Institute of Management",
-        "nirf": "3",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": ": ₹ 27.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1571295613phpdzmJh4.jpeg",
-        "name": "2. Cochin University of Science and Technology, Kochi",
-        "nirf": "82",
-        "details": {
-          "fees": ": ₹ 67,040",
-          "salary": ": ₹ 7.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570094474php6AZ4Dh.jpeg",
-        "name": "3. NIT Calicut - National Institute of Technology",
-        "nirf": "85",
-        "details": {
-          "fees": ": ₹ 3.00 Lakh",
-          "salary": ": ₹ 5.70 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736930165phpZ4TD5k.jpeg",
-        "name": "4. Rajagiri Business School",
-        "nirf": "91",
-        "details": {
-          "fees": ": ₹ 7.50 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570797818php4BEE8h.jpg",
-        "name": "1. IIM Kozhikode - Indian Institute of Management",
-        "nirf": "3",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": ": ₹ 27.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1571295613phpdzmJh4.jpeg",
-        "name": "2. Cochin University of Science and Technology, Kochi",
-        "nirf": "82",
-        "details": {
-          "fees": ": ₹ 67,040",
-          "salary": ": ₹ 7.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570094474php6AZ4Dh.jpeg",
-        "name": "3. NIT Calicut - National Institute of Technology",
-        "nirf": "85",
-        "details": {
-          "fees": ": ₹ 3.00 Lakh",
-          "salary": ": ₹ 5.70 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736930165phpZ4TD5k.jpeg",
-        "name": "4. Rajagiri Business School",
-        "nirf": "91",
-        "details": {
-          "fees": ": ₹ 7.50 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570797818php4BEE8h.jpg",
-        "name": "1. IIM Kozhikode - Indian Institute of Management",
-        "nirf": "3",
-        "details": {
-          "fees": ": ₹ 14.00 Lakh",
-          "salary": ": ₹ 27.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1571295613phpdzmJh4.jpeg",
-        "name": "2. Cochin University of Science and Technology, Kochi",
-        "nirf": "82",
-        "details": {
-          "fees": ": ₹ 67,040",
-          "salary": ": ₹ 7.50 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1570094474php6AZ4Dh.jpeg",
-        "name": "3. NIT Calicut - National Institute of Technology",
-        "nirf": "85",
-        "details": {
-          "fees": ": ₹ 3.00 Lakh",
-          "salary": ": ₹ 5.70 Lakh",
-          "rankings": {
-            "business_today": "24",
-            "outlook": "26"
-          }
-        }
-      },
-      {
-        "college_img": "https://images.shiksha.com/mediadata/images/1736930165phpZ4TD5k.jpeg",
-        "name": "4. Rajagiri Business School",
-        "nirf": "91",
-        "details": {
-          "fees": ": ₹ 7.50 Lakh",
-          "salary": ": ₹ 6.50 Lakh",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
