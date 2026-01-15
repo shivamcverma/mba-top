@@ -6,6 +6,7 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from bs4 import BeautifulSoup
 import re, json, time
+import os
 from webdriver_manager.chrome import ChromeDriverManager
 import platform
 
@@ -41,6 +42,9 @@ def create_driver():
         service = Service("/usr/bin/chromedriver")
 
     return webdriver.Chrome(service=service, options=options)
+
+TEMP_FILE = "en_details_data.tmp.json"
+FINAL_FILE = "en_details_data.json"
 
 def scrape():
     driver = create_driver()
@@ -148,11 +152,15 @@ def scrape():
 
     finally:
         driver.quit()
+        
+    data = scrape()
+    with open(TEMP_FILE, "w", encoding="utf-8") as f:
+        json.dump(data, f, indent=2, ensure_ascii=False)
 
-    with open("mba_data.json", "w", encoding="utf-8") as f:
-        json.dump(all_sections_data, f, indent=2, ensure_ascii=False)
+    # Atomic swap → replaces old file with new one safely
+    os.replace(TEMP_FILE, FINAL_FILE)
 
-    print("✅ Data scraped & saved successfully")
+    print("✅ Data scraped & saved successfully (atomic write)")
 
 if __name__ == "__main__":
     scrape()
