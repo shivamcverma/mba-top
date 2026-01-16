@@ -27,24 +27,29 @@ mba_sections = {
 
 def create_driver():
     options = Options()
-    # options.add_argument("--headless")  # comment out for visible browser
-    options.add_argument("--disable-gpu")
+
+    # Mandatory for GitHub Actions
+    options.add_argument("--headless=new")
     options.add_argument("--no-sandbox")
     options.add_argument("--disable-dev-shm-usage")
-    options.add_argument("user-agent=Mozilla/5.0")
+    options.add_argument("--disable-gpu")
     options.add_argument("--window-size=1920,1080")
-    options.add_argument("--disable-blink-features=AutomationControlled")
 
-    if platform.system() == "Windows":
-        service = Service(ChromeDriverManager().install())
-    else:
-        options.binary_location = "/usr/bin/chromium"
-        service = Service("/usr/bin/chromedriver")
+    # Optional but good
+    options.add_argument(
+        "user-agent=Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+        "(KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+    )
 
-    return webdriver.Chrome(service=service, options=options)
+    # Important for Ubuntu runner
+    options.binary_location = "/usr/bin/chromium"
 
-TEMP_FILE = "en_details_data.tmp.json"
-FINAL_FILE = "en_details_data.json"
+    service = Service(ChromeDriverManager().install())
+
+    return webdriver.Chrome(
+        service=service,
+        options=options
+    )
 
 def scrape():
     driver = create_driver()
@@ -152,7 +157,11 @@ def scrape():
 
     finally:
         driver.quit()
-        
+    return all_sections_data
+
+TEMP_FILE = "mba_data.tmp.json"
+FINAL_FILE = "mba_data.json"
+if __name__ == "__main__":
     data = scrape()
     with open(TEMP_FILE, "w", encoding="utf-8") as f:
         json.dump(data, f, indent=2, ensure_ascii=False)
@@ -161,6 +170,3 @@ def scrape():
     os.replace(TEMP_FILE, FINAL_FILE)
 
     print("✅ Data scraped & saved successfully (atomic write)")
-
-if __name__ == "__main__":
-    scrape()
