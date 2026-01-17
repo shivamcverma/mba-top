@@ -9,7 +9,7 @@
         "nirf": "1",
         "details": {
           "fees": ": ₹ 25.00 Lakh",
-          "salary": ": ₹ 31.58 Lakh",
+          "salary": ": ₹ 34.53 Lakh",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -204,7 +204,7 @@
         "name": "IIM Raipur - Indian Institute of Management",
         "nirf": "15",
         "details": {
-          "fees": ": ₹ 16.28 Lakh",
+          "fees": ": ₹ 18.41 Lakh",
           "salary": ": ₹ 17.50 Lakh",
           "rankings": {
             "business_today": "24",
@@ -275,7 +275,7 @@
         "nirf": "20",
         "details": {
           "fees": ": ₹ 22.50 Lakh",
-          "salary": ": ₹ 30.00 Lakh",
+          "salary": ": ₹ 32.85 Lakh",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -373,7 +373,7 @@
         "nirf": "27",
         "details": {
           "fees": ": ₹ 7.00 Lakh",
-          "salary": ": ₹ 19.90 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -415,7 +415,7 @@
         "nirf": "30",
         "details": {
           "fees": ": ₹ 22.27 Lakh",
-          "salary": ": ₹ 15.00 Lakh",
+          "salary": ": ₹ 17.60 Lakh",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -555,7 +555,7 @@
         "nirf": "40",
         "details": {
           "fees": ": ₹ 20.64 Lakh",
-          "salary": ": ₹ 16.61 Lakh",
+          "salary": ": ₹ 16.56 Lakh",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -634,11 +634,11 @@
       },
       {
         "id": "college_046",
-        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
-        "name": "IFHE Hyderabad - ICFAI Foundation For Higher Education",
+        "college_img": "https://images.shiksha.com/mediadata/images/1732273262phpoZsw00.jpeg",
+        "name": "LM Thapar School of Management",
         "nirf": "46",
         "details": {
-          "fees": ": ₹ 1.80 Lakh",
+          "fees": ": ₹ 11.70 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "24",
@@ -648,11 +648,11 @@
       },
       {
         "id": "college_047",
-        "college_img": "https://images.shiksha.com/mediadata/images/1732273262phpoZsw00.jpeg",
-        "name": "LM Thapar School of Management",
+        "college_img": "https://images.shiksha.com/mediadata/images/1672146561phpBinUzQ.jpeg",
+        "name": "IFHE Hyderabad - ICFAI Foundation For Higher Education",
         "nirf": "46",
         "details": {
-          "fees": ": ₹ 11.70 Lakh",
+          "fees": ": ₹ 1.80 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "24",
@@ -722,7 +722,7 @@
         "name": "Graphic Era Deemed to be University",
         "nirf": "52",
         "details": {
-          "fees": ": ₹ 7.17 Lakh",
+          "fees": ": ₹ 8.64 Lakh",
           "salary": ": ₹ 7.50 Lakh",
           "rankings": {
             "business_today": "24",
@@ -737,7 +737,7 @@
         "nirf": "53",
         "details": {
           "fees": ": ₹ 12.80 Lakh",
-          "salary": ": ₹ 10.50 Lakh",
+          "salary": "",
           "rankings": {
             "business_today": "24",
             "outlook": "26"
@@ -999,7 +999,7 @@
       {
         "id": "college_072",
         "college_img": "https://images.shiksha.com/mediadata/images/1728465527php1rDbfM.jpeg",
-        "name": "Institute of Management Technology, Hyderabad",
+        "name": "IMT Hyderabad, Institute of Management Technology",
         "nirf": "72",
         "details": {
           "fees": ": ₹ 16.00 Lakh",
@@ -1296,7 +1296,7 @@
         "name": "Atal Bihari Vajpayee Indian Institute of Information Technology and Management",
         "nirf": "93",
         "details": {
-          "fees": ": ₹ 60,000",
+          "fees": ": ₹ 3.20 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "24",
