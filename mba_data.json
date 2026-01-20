@@ -788,11 +788,11 @@
       },
       {
         "id": "college_057",
-        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
-        "name": "Christ University",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569393544phpF4H6mc.jpg",
+        "name": "NIT Trichy - National Institute of Technology",
         "nirf": "57",
         "details": {
-          "fees": "",
+          "fees": ": ₹ 1.40 Lakh",
           "salary": "",
           "rankings": {
             "business_today": "24",
@@ -802,11 +802,11 @@
       },
       {
         "id": "college_058",
-        "college_img": "https://images.shiksha.com/mediadata/images/1569393544phpF4H6mc.jpg",
-        "name": "NIT Trichy - National Institute of Technology",
+        "college_img": "https://images.shiksha.com/mediadata/images/1569231770phpRkhVGW.jpeg",
+        "name": "Christ University",
         "nirf": "57",
         "details": {
-          "fees": ": ₹ 1.40 Lakh",
+          "fees": "",
           "salary": "",
           "rankings": {
             "business_today": "24",
